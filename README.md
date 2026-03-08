@@ -22,11 +22,15 @@ replacing manual Excel reporting.
 
 | File | Description |
 |---|---|
-| Order_Sp / Order_Lz | Order transactions from Shopee & Lazada |
-| Ads_Sp / Ads_Lz | Advertising performance data |
-| AMS_Sp / AMS_Lz | Affiliate & channel attribution |
-| CPAS | Cross-Platform Advertising Solution data |
-| Overview_Ps / Overview_Lz | Platform summary reports |
+| [AMS_Lz.csv](csv/AMS_Lz.csv) | Lazada affiliate / attribution performance data |
+| [AMS_Sp.csv](csv/AMS_Sp.csv) | Shopee affiliate / attribution performance data |
+| [Ads_Sp.csv](csv/Ads_Sp.csv) | Shopee advertising campaign performance |
+| [CPAS_Ps.csv](csv/CPAS_Ps.csv) | Facebook CPAS (Collaborative Performance Ads) data |
+| [Order_Lz.csv](csv/Order_Lz.csv) | Lazada order transaction records |
+| [Order_Sp.csv](csv/Order_Sp.csv) | Shopee order transaction records |
+| [Overview_Ls.csv](csv/Overview_Ls.csv) | Lazada platform summary metrics |
+| [Overview_Ps.csv](csv/Overview_Ps.csv) | Shopee platform summary metrics |
+| [Sponsor_Lz.csv](csv/Sponsor_Lz.csv) | Lazada sponsored ads performance |
 
 ---
 
