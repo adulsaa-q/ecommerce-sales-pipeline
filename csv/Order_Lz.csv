@@ -1,0 +1,879 @@
+﻿Order ID,Order Status,Order Date,Product ID,Product Name,Variation,Sales,Shipping Paid by Buyer,Seller Voucher Cost,Postcode,Payment Method,Platform
+1075454234138159,ready_to_ship,13/2/2026,Blank,Blank,Standard,1090,0,0,10270,COD,Lazada
+1083470566337488,ready_to_ship,13/2/2026,Blank,Blank,2 กล่อง,576.2,0,-68.6,20000,PayLater,Lazada
+1075406446502169,ready_to_ship,13/2/2026,Blank,Blank,Standard,1278.6,0,-71.4,66140,Credit Card,Lazada
+1083399578637688,ready_to_ship,12/2/2026,Blank,Blank,Standard,483,0,-69,73130,PayLater,Lazada
+1083387798136868,Cancelled,12/2/2026,Blank,Blank,Standard,447,0,-109,10240,Bank Transfer,Lazada
+1083392910491221,ready_to_ship,12/2/2026,Blank,Blank,Standard,511.5,0,-74.5,84280,E-Wallet,Lazada
+1075348872188264,ready_to_ship,12/2/2026,Blank,Blank,Standard,650,0,-40,10570,COD,Lazada
+1083368184105243,ready_to_ship,12/2/2026,Blank,Blank,Standard,432,0,-109,72110,PayLater,Lazada
+1083367551404406,ready_to_ship,12/2/2026,Blank,Blank,Standard,759,0,-40,77120,COD,Lazada
+1075318097960104,ready_to_ship,12/2/2026,Blank,Blank,Standard,776.92,0,-175,10250,Other,Lazada
+1075318427579061,ready_to_ship,12/2/2026,Blank,Blank,Standard,650,0,-40,74110,COD,Lazada
+1075300017972078,ready_to_ship,12/2/2026,Blank,Blank,Standard,650,0,-40,90250,COD,Lazada
+1083319989040750,ready_to_ship,12/2/2026,Blank,Blank,Standard,546,0,-40,34350,COD,Lazada
+1083303393635154,ready_to_ship,12/2/2026,Blank,Blank,Standard,1553.15,0,-42.85,10140,Credit Card,Lazada
+1083303393635154,ready_to_ship,12/2/2026,Blank,Blank,Standard,1553.15,0,-42.85,10140,Credit Card,Lazada
+1075277804919836,ready_to_ship,12/2/2026,Blank,Blank,Standard,567.9,0,-53.1,32170,COD,Lazada
+1075247091266950,ready_to_ship,12/2/2026,Blank,Blank,Standard,550.5,0,-74.5,36000,COD,Lazada
+1083273396590562,Shipping,12/2/2026,Blank,Blank,Standard,1755,0,-40,62110,COD,Lazada
+1075246205851931,Completed,12/2/2026,Blank,Blank,Standard,481.5,0,-109,72000,COD,Lazada
+1083272929717140,Completed,12/2/2026,Blank,Blank,Standard,1885,0,-60,20150,COD,Lazada
+1083260140072782,Cancelled,12/2/2026,Blank,Blank,Standard,1558.1,0,-119.9,30130,Bank Transfer,Lazada
+1083243134047140,Completed,12/2/2026,Blank,Blank,2 กล่อง,626.4,0,-40,10120,PayLater,Lazada
+1075199645451931,Cancelled,12/2/2026,Blank,Blank,Standard,479.2,0,-109,72000,COD,Lazada
+1083180318828516,Completed,11/2/2026,Blank,Blank,Standard,427.5,0,-109,14000,Credit Card,Lazada
+1083172781853265,Completed,11/2/2026,Blank,Blank,Standard,1117.2,0,-20,10220,Credit Card,Lazada
+1083172781853265,Completed,11/2/2026,Blank,Blank,Standard,1117.2,0,-20,10220,Credit Card,Lazada
+1075123676794324,Completed,11/2/2026,Blank,Blank,Standard,664,0,-149,10140,COD,Lazada
+1083160373876555,Shipping,11/2/2026,Blank,Blank,Standard,511.5,0,-74.5,92150,COD,Lazada
+1083153786790907,Shipping,11/2/2026,Blank,Blank,Standard,834.33,0,-40,83000,PayLater,Lazada
+1083133574311493,Completed,11/2/2026,Blank,Blank,Standard,646.7,0,-43.3,24160,COD,Lazada
+1075091066862005,Completed,11/2/2026,Blank,Blank,Standard,759,0,-40,10150,COD,Lazada
+1075093804332554,Completed,11/2/2026,Blank,Blank,Standard,921.9,0,-78.1,10700,COD,Lazada
+1074966004237354,Completed,11/2/2026,Blank,Blank,Standard,650,0,-40,13000,COD,Lazada
+1082966190639765,Completed,10/2/2026,Blank,Blank,Standard,432,0,-109,10250,Credit Card,Lazada
+1074928817128636,Completed,10/2/2026,Blank,Blank,Standard,408,0,-109,10210,COD,Lazada
+1082956113317833,Completed,10/2/2026,Blank,Blank,Standard,360,0,0,10220,Bank Transfer,Lazada
+1074912819976449,Completed,10/2/2026,Blank,Blank,Standard,432,0,-109,24130,PayLater,Lazada
+1074903453354762,Completed,10/2/2026,Blank,Blank,Standard,237.5,0,-12.5,27160,COD,Lazada
+1082919951829947,Completed,10/2/2026,Blank,Blank,Standard,1265,0,-40,21120,COD,Lazada
+1074877423364506,Shipping,10/2/2026,Blank,Blank,2 กล่อง,602,0,-78,38000,COD,Lazada
+1074845479986402,Completed,10/2/2026,Blank,Blank,Standard,649.8,0,-40.2,33160,Bank Transfer,Lazada
+1082885368888348,Cancelled,10/2/2026,Blank,Blank,Standard,603.6,0,-66.4,11110,COD,Lazada
+1074850633488348,Completed,10/2/2026,Blank,Blank,Standard,602.3,0,-47.7,11110,COD,Lazada
+1074849236088348,Cancelled,10/2/2026,Blank,Blank,Standard,615.5,0,-74.5,11110,COD,Lazada
+1074829436278405,Shipping,10/2/2026,Blank,Blank,Standard,636.7,0,-53.3,67000,COD,Lazada
+1074807639259303,Completed,10/2/2026,Blank,Blank,Standard,1011.1,0,-78.9,90150,COD,Lazada
+1082843147132372,Completed,10/2/2026,Blank,Blank,Standard,245.5,0,-4.5,63110,COD,Lazada
+1082794311737361,Completed,10/2/2026,Blank,Blank,Standard,170.95,0,-18.05,18130,E-Wallet,Lazada
+1082794311737361,Completed,10/2/2026,Blank,Blank,Standard,624.1,0,-65.9,18130,E-Wallet,Lazada
+1082750581536725,Completed,10/2/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10900,Credit Card,Lazada
+1082686568825812,Completed,9/2/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10800,Credit Card,Lazada
+1082625119428113,Completed,9/2/2026,Blank,Blank,Standard,600,0,-40,17170,COD,Lazada
+1082616758584050,Cancelled,9/2/2026,Blank,Blank,Standard,620,0,-40,17170,Other,Lazada
+1082595584392163,Completed,9/2/2026,Blank,Blank,Standard,570.5,0,-74.5,10140,PayLater,Lazada
+1082606126456434,Completed,9/2/2026,Blank,Blank,Standard,949,0,-41,10150,COD,Lazada
+1074531021799099,Completed,9/2/2026,Blank,Blank,Standard,650,0,-40,73000,COD,Lazada
+1082565912582923,Completed,9/2/2026,Blank,Blank,Standard,987,0,-40,10270,PayLater,Lazada
+1074514698378800,Completed,9/2/2026,Blank,Blank,Standard,639,0,-51,11130,Bank Transfer,Lazada
+1074437248639820,Completed,8/2/2026,Blank,Blank,Standard,1013.6,0,-76.4,50220,COD,Lazada
+1082441973913377,Completed,8/2/2026,Blank,Blank,Standard,918.5,0,-20.5,17120,COD,Lazada
+1082441973913377,Completed,8/2/2026,Blank,Blank,Standard,918.5,0,-20.5,17120,COD,Lazada
+1074379255402137,Completed,8/2/2026,Blank,Blank,Standard,1083.4,0,-96.6,10220,COD,Lazada
+1082370928286591,Completed,8/2/2026,Blank,Blank,Standard,1049.9,0,-40.1,73180,COD,Lazada
+1074332093846147,Completed,8/2/2026,Blank,Blank,Standard,467,0,-109,50220,Bank Transfer,Lazada
+1082368508463557,Completed,8/2/2026,Blank,Blank,Standard,1128.5,0,-71.5,12120,Credit Card,Lazada
+1074311810093089,Completed,8/2/2026,Blank,Blank,Standard,650,0,-40,41000,COD,Lazada
+1082310908999310,Completed,7/2/2026,Blank,Blank,Standard,1092.75,0,-107.5,55170,PayLater,Lazada
+1074250616075812,Cancelled,7/2/2026,Blank,Blank,Standard,401.3,0,-47.7,22000,COD,Lazada
+1082270197304347,Completed,7/2/2026,Blank,Blank,Standard,482,0,-89,10220,PayLater,Lazada
+1082270197304347,Completed,7/2/2026,Blank,Blank,Standard,482,0,-89,10220,PayLater,Lazada
+1082266520507116,Completed,7/2/2026,Blank,Blank,Standard,1050,0,-40,65170,COD,Lazada
+1074201007651931,Cancelled,7/2/2026,Blank,Blank,Standard,482.9,0,-109,72000,COD,Lazada
+1074198812471611,Completed,7/2/2026,Blank,Blank,Standard,452.97,0,-31.62,10510,PayLater,Lazada
+1074198812471611,Completed,7/2/2026,Blank,Blank,Standard,148.78,0,-10.38,10510,PayLater,Lazada
+1082212172604428,Completed,7/2/2026,Blank,Blank,Standard,1387,0,-239,30130,Credit Card,Lazada
+1074159040556326,Completed,7/2/2026,Blank,Blank,Standard,516.86,0,-71.6,54000,PayLater,Lazada
+1082172368280410,Completed,7/2/2026,Blank,Blank,Standard,1310,0,-40,10220,COD,Lazada
+1074117818124472,Completed,7/2/2026,Blank,Blank,Standard,23.8,0,-66.2,10120,COD,Lazada
+1074065874099895,Completed,6/2/2026,Blank,Blank,Standard,447.38,0,-69,90100,Credit Card,Lazada
+1074060238074501,Completed,6/2/2026,Blank,Blank,Standard,756.5,0,-149,10700,Bank Transfer,Lazada
+1082080103387978,Cancelled,6/2/2026,Blank,Blank,Standard,650,0,-40,41260,Bank Transfer,Lazada
+1074034248776658,Completed,6/2/2026,Blank,Blank,Standard,1050,0,-40,40190,Bank Transfer,Lazada
+1082046121239222,Completed,6/2/2026,Blank,Blank,Standard,615.5,0,-74.5,20110,COD,Lazada
+1074011091128832,Completed,6/2/2026,Blank,Blank,Standard,642.2,0,-47.8,42190,COD,Lazada
+1082032147151931,Cancelled,6/2/2026,Blank,Blank,Standard,486.9,0,-109,72000,COD,Lazada
+1074000844466597,Completed,6/2/2026,Blank,Blank,Standard,1092.5,0,-107.5,21110,Credit Card,Lazada
+1082001726402088,Completed,6/2/2026,Blank,Blank,Standard,626,0,-40,23170,Bank Transfer,Lazada
+1081943722728891,Completed,6/2/2026,Blank,Blank,1 กล่อง,390,0,0,50140,COD,Lazada
+1081919342916034,Completed,6/2/2026,Blank,Blank,Standard,650,0,-40,90130,COD,Lazada
+1073840222060346,Completed,5/2/2026,Blank,Blank,Standard,535.5,0,-74.5,83000,PayLater,Lazada
+1081877104090471,Completed,5/2/2026,Blank,Blank,Standard,645.9,0,-44.1,10200,Bank Transfer,Lazada
+1081845978336031,Completed,5/2/2026,Blank,Blank,Standard,554.3,0,-109,21180,Bank Transfer,Lazada
+1073729890801397,Completed,5/2/2026,Blank,Blank,Standard,630,0,-60,45110,COD,Lazada
+1073707824778821,Completed,5/2/2026,Blank,Blank,Standard,325.85,0,-17.15,31000,COD,Lazada
+1073693871087762,Completed,5/2/2026,Blank,Blank,Standard,544,0,-66,11130,Bank Transfer,Lazada
+1073666652514806,Completed,5/2/2026,Blank,Blank,Standard,587.9,0,-52.1,10130,COD,Lazada
+1081671105117056,Completed,4/2/2026,Blank,Blank,Standard,150.05,0,-4.95,67120,COD,Lazada
+1081671105117056,Completed,4/2/2026,Blank,Blank,Standard,150.05,0,-4.95,67120,COD,Lazada
+1081671105117056,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,67120,COD,Lazada
+1081650143794395,Completed,4/2/2026,Blank,Blank,Standard,1771.4,0,-68.6,10900,Bank Transfer,Lazada
+1081650143794395,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,10900,Bank Transfer,Lazada
+1073607207164016,Completed,4/2/2026,Blank,Blank,Standard,1903.4,0,-51.6,10230,Credit Card,Lazada
+1073607207164016,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,10230,Credit Card,Lazada
+1073525417200740,Cancelled,4/2/2026,Blank,Blank,2 กล่อง,688.6,0,-71.4,10540,Bank Transfer,Lazada
+1073525417200740,Cancelled,4/2/2026,Blank,Blank,Standard,0,0,-99,10540,Bank Transfer,Lazada
+1073487216795078,Completed,4/2/2026,Blank,Blank,Standard,904.4,0,-13.33,30000,COD,Lazada
+1073487216795078,Completed,4/2/2026,Blank,Blank,Standard,904.4,0,-13.34,30000,COD,Lazada
+1073487216795078,Completed,4/2/2026,Blank,Blank,Standard,904.4,0,-13.33,30000,COD,Lazada
+1073487216795078,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,30000,COD,Lazada
+1081515340363267,Completed,4/2/2026,Blank,Blank,Standard,1050,0,-40,10220,Bank Transfer,Lazada
+1081515340363267,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,10220,Bank Transfer,Lazada
+1073471404452477,Completed,4/2/2026,Blank,Blank,2 กล่อง,595.27,10.47,-60,10900,Bank Transfer,Lazada
+1073471404452477,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,10900,Bank Transfer,Lazada
+1081461143532868,Completed,4/2/2026,Blank,Blank,Standard,615.5,0,-74.5,12000,COD,Lazada
+1081461143532868,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,12000,COD,Lazada
+1081383555399253,Completed,4/2/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10270,PayLater,Lazada
+1081383555399253,Completed,4/2/2026,Blank,Blank,Standard,0,0,-99,10270,PayLater,Lazada
+1073275099030216,Completed,3/2/2026,Blank,Blank,Standard,890,0,-175,30370,COD,Lazada
+1073275099030216,Completed,3/2/2026,Blank,Blank,Standard,0,0,-99,30370,COD,Lazada
+1073264293279046,Completed,3/2/2026,Blank,Blank,Standard,154.7,1.5,-1.8,32230,COD,Lazada
+1073264417337688,Completed,3/2/2026,Blank,Blank,Standard,532,0,-89,73130,PayLater,Lazada
+1073264417337688,Completed,3/2/2026,Blank,Blank,Standard,532,0,-89,73130,PayLater,Lazada
+1073264417337688,Completed,3/2/2026,Blank,Blank,Standard,0,0,-99,73130,PayLater,Lazada
+1081243511316078,Completed,3/2/2026,Blank,Blank,Standard,1200.6,0,-69.4,22000,Bank Transfer,Lazada
+1081243511316078,Completed,3/2/2026,Blank,Blank,Standard,0,0,-99,22000,Bank Transfer,Lazada
+1081227168651931,Cancelled,3/2/2026,Blank,Blank,Standard,497.3,0,-109,72000,COD,Lazada
+1081227168651931,Cancelled,3/2/2026,Blank,Blank,Standard,0,0,-99,72000,COD,Lazada
+1073177406162380,Completed,3/2/2026,Blank,Blank,Standard,535.5,0,-74.5,10400,Credit Card,Lazada
+1073177406162380,Completed,3/2/2026,Blank,Blank,Standard,0,0,-99,10400,Credit Card,Lazada
+1073154844351931,Cancelled,3/2/2026,Blank,Blank,Standard,497.3,0,-109,72000,COD,Lazada
+1073154844351931,Cancelled,3/2/2026,Blank,Blank,Standard,0,0,-99,72000,COD,Lazada
+1073131879832372,Completed,3/2/2026,Blank,Blank,Standard,207.5,0,-12.5,63110,COD,Lazada
+1073078663420899,Completed,3/2/2026,Blank,Blank,Standard,615.5,0,-74.5,21150,PayLater,Lazada
+1073078663420899,Completed,3/2/2026,Blank,Blank,Standard,0,0,-99,21150,PayLater,Lazada
+1073082852746421,Completed,3/2/2026,Blank,Blank,Standard,650,0,-40,11000,PayLater,Lazada
+1073082852746421,Completed,3/2/2026,Blank,Blank,Standard,0,0,-99,11000,PayLater,Lazada
+1073084235251931,Cancelled,3/2/2026,Blank,Blank,Standard,497.3,0,-109,72000,COD,Lazada
+1073084235251931,Cancelled,3/2/2026,Blank,Blank,Standard,0,0,-99,72000,COD,Lazada
+1081112910599895,Completed,2/2/2026,Blank,Blank,Standard,408,0,-109,90100,Credit Card,Lazada
+1081112910599895,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,90100,Credit Card,Lazada
+1081066780464755,Completed,2/2/2026,Blank,Blank,Standard,534,0,-52,10260,Bank Transfer,Lazada
+1081066780464755,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,10260,Bank Transfer,Lazada
+1081059394713520,Cancelled,2/2/2026,Blank,Blank,Standard,1032.9,0,-107.5,20230,Bank Transfer,Lazada
+1081059394713520,Cancelled,2/2/2026,Blank,Blank,Standard,0,0,-99,20230,Bank Transfer,Lazada
+1072971416547738,Completed,2/2/2026,Blank,Blank,Standard,1204.5,0,-107.5,25230,Other,Lazada
+1072971416547738,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,25230,Other,Lazada
+1080970192219836,Completed,2/2/2026,Blank,Blank,Standard,590.5,0,-74.5,32170,COD,Lazada
+1080970192219836,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,32170,COD,Lazada
+1080913136968639,Completed,2/2/2026,Blank,Blank,Standard,919.4,0,-79.6,72000,COD,Lazada
+1080913136968639,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,72000,COD,Lazada
+1080905150127228,Completed,2/2/2026,Blank,Blank,1 กล่อง,351,0,-39,10170,Bank Transfer,Lazada
+1080905150127228,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,10170,Bank Transfer,Lazada
+1072858001324445,Completed,2/2/2026,Blank,Blank,Standard,630,0,-20,54120,COD,Lazada
+1072858001324445,Completed,2/2/2026,Blank,Blank,Standard,630,0,-20,54120,COD,Lazada
+1072858001324445,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,54120,COD,Lazada
+1080786707976586,Completed,2/2/2026,Blank,Blank,Standard,1192.8,0,-107.5,50220,PayLater,Lazada
+1080786707976586,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,50220,PayLater,Lazada
+1072702294269701,Completed,2/2/2026,Blank,Blank,Standard,555.1,0,-89,10250,Bank Transfer,Lazada
+1072702294269701,Completed,2/2/2026,Blank,Blank,Standard,555.1,0,-89,10250,Bank Transfer,Lazada
+1072702294269701,Completed,2/2/2026,Blank,Blank,Standard,0,0,-99,10250,Bank Transfer,Lazada
+1072672833773874,Completed,1/2/2026,Blank,Blank,Standard,1836.38,0,-77.1,12000,PayLater,Lazada
+1072672833773874,Completed,1/2/2026,Blank,Blank,Standard,0,0,-99,12000,PayLater,Lazada
+1072580642136295,Completed,1/2/2026,Blank,Blank,Standard,1000,0,-135,10310,Credit Card,Lazada
+1080583747551230,Completed,1/2/2026,Blank,Blank,1 กล่อง,390,0,0,20150,Credit Card,Lazada
+1072559240946883,Completed,1/2/2026,Blank,Blank,Standard,938.2,0,-51.8,33150,Bank Transfer,Lazada
+1072539275757286,Completed,1/2/2026,Blank,Blank,Standard,1069.2,0,-20.8,31120,PayLater,Lazada
+1072548236792499,Completed,1/2/2026,Blank,Blank,Standard,497,0,-69,10170,Bank Transfer,Lazada
+1080557750634700,Completed,1/2/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10400,PayLater,Lazada
+1072521093249880,Completed,1/2/2026,Blank,Blank,Standard,617.5,0,-34.5,20230,PayLater,Lazada
+1080529789816069,Completed,1/2/2026,Blank,Blank,Standard,679.5,0,-10.5,64140,COD,Lazada
+1080529789816069,Completed,1/2/2026,Blank,Blank,Standard,679.5,0,-10.5,64140,COD,Lazada
+1080502790482295,Completed,1/2/2026,Blank,Blank,Standard,1339.7,0,-10.3,21110,COD,Lazada
+1080477777499608,Completed,1/2/2026,Blank,Blank,Standard,641.6,0,-48.4,10130,COD,Lazada
+1080477777499608,Completed,1/2/2026,Blank,Blank,Standard,641.6,0,-48.4,10130,COD,Lazada
+1072444898346147,Completed,1/2/2026,Blank,Blank,Standard,492,0,-69,50220,Bank Transfer,Lazada
+1072445246646147,Completed,1/2/2026,Blank,Blank,Standard,507,0,-69,50220,Bank Transfer,Lazada
+1080404596533207,Completed,31/1/2026,Blank,Blank,Standard,323,0,-17,72240,Bank Transfer,Lazada
+1080424723293110,Completed,31/1/2026,Blank,Blank,1 กล่อง,390,0,0,37240,COD,Lazada
+1072361638457030,Completed,31/1/2026,Blank,Blank,Standard,462,0,-69,10240,Credit Card,Lazada
+1072361638457030,Completed,31/1/2026,Blank,Blank,Standard,462,0,-69,10240,Credit Card,Lazada
+1072348010418225,Completed,31/1/2026,Blank,Blank,Standard,684.6,0,-5.4,12120,Bank Transfer,Lazada
+1072309041393512,Completed,31/1/2026,Blank,Blank,Standard,1295.7,0,-54.3,10540,Bank Transfer,Lazada
+1072298670650657,Completed,31/1/2026,Blank,Blank,Standard,552,0,-69,10250,Bank Transfer,Lazada
+1080196336569647,Completed,30/1/2026,Blank,Blank,Standard,799,0,0,10500,COD,Lazada
+1080129129525354,Completed,30/1/2026,Blank,Blank,Standard,900,0,-135,10230,PayLater,Lazada
+1080101338449814,Completed,30/1/2026,Blank,Blank,Standard,655.5,0,-34.5,74110,PayLater,Lazada
+1080077303361588,Completed,30/1/2026,Blank,Blank,Standard,666.8,0,-23.2,24000,COD,Lazada
+1072062247028558,Completed,30/1/2026,Blank,Blank,Standard,652.1,0,-37.9,21100,COD,Lazada
+1080047983660302,Completed,30/1/2026,Blank,Blank,Standard,195.25,29,-8.75,10570,COD,Lazada
+1072047644058981,Completed,30/1/2026,Blank,Blank,Standard,545.1,0,-34.5,10150,Credit Card,Lazada
+1072047644058981,Completed,30/1/2026,Blank,Blank,Standard,545.1,0,-34.5,10150,Credit Card,Lazada
+1080007731976858,Cancelled,29/1/2026,Blank,Blank,Standard,1186.4,0,-13.6,27120,Credit Card,Lazada
+1071839837804384,Cancelled,29/1/2026,Blank,Blank,Standard,1083,0,-51,21150,COD,Lazada
+1079832109004384,Cancelled,29/1/2026,Blank,Blank,Standard,1083,0,-51,21150,COD,Lazada
+1071830886634202,Completed,29/1/2026,Blank,Blank,เลือกจำนวน:1 ขวด,140.55,0,-8.45,10310,COD,Lazada
+1079814547546421,Completed,29/1/2026,Blank,Blank,Standard,677.3,0,-12.7,11000,PayLater,Lazada
+1079808784084729,Completed,29/1/2026,Blank,Blank,Standard,690,0,0,10400,COD,Lazada
+1079808926548024,Cancelled,29/1/2026,Blank,Blank,Standard,1498.6,0,-173,10290,Other,Lazada
+1071808436812461,Completed,29/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,34000,Credit Card,Lazada
+1079751384332372,Completed,28/1/2026,Blank,Blank,Standard,250,0,0,63110,COD,Lazada
+1071717201311915,Completed,28/1/2026,Blank,Blank,Standard,682.6,0,-7.4,83000,PayLater,Lazada
+1079674908090807,Completed,28/1/2026,Blank,Blank,Standard,926.5,0,-109,10160,Credit Card,Lazada
+1071662642407366,Completed,28/1/2026,Blank,Blank,Standard,552,0,-69,10230,PayLater,Lazada
+1079632704792163,Completed,28/1/2026,Blank,Blank,Standard,690,0,0,10140,PayLater,Lazada
+1071580606424991,Completed,28/1/2026,Blank,Blank,Standard,690,0,0,65190,COD,Lazada
+1071494829628111,Completed,27/1/2026,Blank,Blank,Standard,776.1,0,-22.9,46110,COD,Lazada
+1071432411628558,Completed,27/1/2026,Blank,Blank,Standard,655.5,0,-34.5,21100,COD,Lazada
+1079383176880222,Completed,27/1/2026,Blank,Blank,Standard,1350,0,,84350,COD,Lazada
+1071407479780222,Cancelled,27/1/2026,Blank,Blank,Standard,1350,0,,84350,COD,Lazada
+1071414404049081,Completed,27/1/2026,Blank,Blank,Standard,698.2,0,-20.8,20000,Bank Transfer,Lazada
+1079371358526868,Completed,27/1/2026,Blank,Blank,Standard,1090,0,0,21120,COD,Lazada
+1071274034187774,Completed,26/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,90110,E-Wallet,Lazada
+1079191589246016,Completed,26/1/2026,Blank,Blank,Standard,999,0,0,50000,COD,Lazada
+1071226611640382,Completed,26/1/2026,Blank,Blank,Standard,655.5,0,-34.5,12120,PayLater,Lazada
+1071133879699712,Completed,26/1/2026,Blank,Blank,Standard,690,0,0,91140,COD,Lazada
+1079106344868440,Completed,26/1/2026,Blank,Blank,Standard,1090,0,0,38220,COD,Lazada
+1071085879628282,Completed,26/1/2026,Blank,Blank,Standard,552,0,-69,80360,Credit Card,Lazada
+1078983148213332,Completed,25/1/2026,Blank,Blank,Standard,552,0,-69,21130,Bank Transfer,Lazada
+1070992236502615,Completed,25/1/2026,Blank,Blank,Standard,479,0,-20,45130,COD,Lazada
+1078949114011782,Completed,25/1/2026,Blank,Blank,Standard,627.3,0,-62.7,20150,COD,Lazada
+1070977275494022,Completed,25/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10240,Credit Card,Lazada
+1078924555300082,Completed,25/1/2026,Blank,Blank,Standard,655.5,0,-34.5,20000,COD,Lazada
+1078920718624248,Completed,25/1/2026,Blank,Blank,Standard,552,0,-69,10550,COD,Lazada
+1078916536573364,Completed,25/1/2026,Blank,Blank,Standard,868.9,0,-135,10210,Credit Card,Lazada
+1070947835944847,Completed,25/1/2026,Blank,Blank,Standard,528,0,-69,10600,COD,Lazada
+1078896128114450,Completed,25/1/2026,Blank,Blank,Standard,1957.5,0,-32.5,10700,COD,Lazada
+1078838789828282,Cancelled,25/1/2026,Blank,Blank,Standard,552,0,-69,80110,Bank Transfer,Lazada
+1078684161500027,Completed,24/1/2026,Blank,Blank,Standard,975.2,0,-34.8,20250,PayLater,Lazada
+1078660702254827,Completed,24/1/2026,Blank,Blank,Standard,1283.7,0,-66.3,10110,Bank Transfer,Lazada
+1078628788124352,Completed,24/1/2026,Blank,Blank,Standard,600.5,0,-34.5,12000,Bank Transfer,Lazada
+1070586239600741,Completed,23/1/2026,Blank,Blank,Standard,664.5,0,-23.8,10120,Bank Transfer,Lazada
+1078540730317497,Completed,23/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,57100,Other,Lazada
+1070517294736878,Completed,23/1/2026,Blank,Blank,Standard,342,0,-18,66230,COD,Lazada
+1078479338166872,Completed,23/1/2026,Blank,Blank,Standard,1990,0,0,20230,Credit Card,Lazada
+1070499210126090,Completed,23/1/2026,Blank,Blank,Standard,126.35,0,-6.65,10170,Credit Card,Lazada
+1078438792408381,Completed,23/1/2026,Blank,Blank,Standard,1605.5,0,-189.5,84000,Credit Card,Lazada
+1070484425408381,Cancelled,23/1/2026,Blank,Blank,Standard,1694.4,0,-99.5,84000,Credit Card,Lazada
+1070473685716065,Completed,23/1/2026,Blank,Blank,Standard,1042,0,-48,30000,COD,Lazada
+1070442661422095,Completed,23/1/2026,Blank,Blank,Standard,655.5,0,-34.5,10530,Bank Transfer,Lazada
+1070402893126820,Completed,23/1/2026,Blank,Blank,Standard,620.5,0,-9.5,20230,PayLater,Lazada
+1070347277690394,Completed,22/1/2026,Blank,Blank,Standard,1627.68,0,-99.5,23000,PayLater,Lazada
+1070239249665118,Completed,22/1/2026,Blank,Blank,Standard,948,0,-42,11120,Bank Transfer,Lazada
+1078171966876665,Completed,22/1/2026,Blank,Blank,Standard,600.1,0,-44.9,20140,PayLater,Lazada
+1078168766920581,Completed,22/1/2026,Blank,Blank,Standard,670,0,-20,12120,COD,Lazada
+1070192439974773,Completed,22/1/2026,Blank,Blank,Standard,545.1,0,-34.5,11110,Bank Transfer,Lazada
+1078119357884743,Completed,22/1/2026,Blank,Blank,Standard,128.8,0,-16.1,31250,COD,Lazada
+1070167664384743,Completed,22/1/2026,Blank,Blank,Standard,138.48,0,-17.9,31250,COD,Lazada
+1078046714028282,Completed,21/1/2026,Blank,Blank,Standard,483,0,-69,80360,Bank Transfer,Lazada
+1077993398971220,Completed,21/1/2026,Blank,Blank,Standard,1592,0,0,34130,COD,Lazada
+1078000335536081,Completed,21/1/2026,Blank,Blank,Standard,517.5,0,-34.5,40000,COD,Lazada
+1078000335536081,Completed,21/1/2026,Blank,Blank,Standard,517.5,0,-34.5,40000,COD,Lazada
+1077999500117019,Completed,21/1/2026,Blank,Blank,Standard,926.5,0,-54.5,11150,COD,Lazada
+1077912137058491,Completed,21/1/2026,Blank,Blank,Standard,991.9,0,-88.1,10160,Bank Transfer,Lazada
+1069956030578800,Completed,21/1/2026,Blank,Blank,Standard,620,0,-1,11130,Bank Transfer,Lazada
+1069912216032372,Completed,20/1/2026,Blank,Blank,Standard,250,0,0,63110,COD,Lazada
+1077823590666914,Completed,20/1/2026,Blank,Blank,Standard,945,0,-135,10220,Credit Card,Lazada
+1069865618621562,Cancelled,20/1/2026,Blank,Blank,Standard,1035.5,0,-54.5,62140,COD,Lazada
+1069865618621562,Cancelled,20/1/2026,Blank,Blank,Standard,179.55,0,-9.45,62140,COD,Lazada
+1077806387366384,Completed,20/1/2026,Blank,Blank,Standard,605.1,0,-15.9,47240,COD,Lazada
+1077773115631159,Completed,20/1/2026,Blank,Blank,Standard,1146.6,0,-68.4,11120,Bank Transfer,Lazada
+1069721016900522,Completed,20/1/2026,Blank,Blank,Standard,552,0,-69,73210,PayLater,Lazada
+1069700829566878,Completed,20/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10310,Credit Card,Lazada
+1069693659993208,Completed,20/1/2026,Blank,Blank,Standard,483,0,-69,20220,COD,Lazada
+1077480183808920,Completed,19/1/2026,Blank,Blank,Standard,480.62,0,-69,20230,COD,Lazada
+1077480183808920,Completed,19/1/2026,Blank,Blank,Standard,29.63,0,-1.75,20230,COD,Lazada
+1077470967606950,Completed,19/1/2026,Blank,Blank,Standard,555.6,10.5,-34.5,21170,Bank Transfer,Lazada
+1077463363494575,Completed,19/1/2026,Blank,Blank,1 กล่อง,351,0,-39,57130,COD,Lazada
+1077445997453790,Completed,19/1/2026,Blank,Blank,Standard,545.1,0,-34.5,74110,Credit Card,Lazada
+1069489835564742,Completed,19/1/2026,Blank,Blank,Standard,441.6,0,-69,80330,COD,Lazada
+1077411552320805,Completed,19/1/2026,Blank,Blank,1 กล่อง,360,0,0,96000,Credit Card,Lazada
+1069463010100469,Completed,18/1/2026,Blank,Blank,Standard,690,0,0,13000,COD,Lazada
+1069427291189765,Completed,18/1/2026,Blank,Blank,1 กล่อง,354.7,0,-5.3,20130,Bank Transfer,Lazada
+1077317162530733,Completed,18/1/2026,Blank,Blank,1 กล่อง,375.3,0,-14.7,11000,Credit Card,Lazada
+1077311544736134,Completed,18/1/2026,Blank,Blank,Standard,949.1,0,-40.9,12120,COD,Lazada
+1069303453739177,Completed,18/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,13210,PayLater,Lazada
+1077226915993089,Completed,18/1/2026,Blank,Blank,Standard,690,0,0,41000,COD,Lazada
+1069231875752479,Completed,17/1/2026,Blank,Blank,1 กล่อง,312,0,-39,21140,PayLater,Lazada
+1069226262424887,Completed,17/1/2026,Blank,Blank,Standard,132,0,-16.5,24140,COD,Lazada
+1077143974323826,Completed,17/1/2026,Blank,Blank,2 กล่อง,722,0,-38,10600,Credit Card,Lazada
+1077147740552479,Cancelled,17/1/2026,Blank,Blank,1 กล่อง,312,0,-39,21140,COD,Lazada
+1077121100341307,Completed,17/1/2026,Blank,Blank,Standard,539.5,0,-69,10900,COD,Lazada
+1077121100341307,Completed,17/1/2026,Blank,Blank,Standard,539.5,0,-69,10900,COD,Lazada
+1069105654246412,Completed,17/1/2026,Blank,Blank,Standard,1035,0,-135,12110,Credit Card,Lazada
+1076988564569528,Completed,17/1/2026,Blank,Blank,Standard,428.4,0,-49.9,73130,COD,Lazada
+1076923553044109,Completed,16/1/2026,Blank,Blank,1 กล่อง,390,0,0,84320,COD,Lazada
+1068906612327228,Completed,16/1/2026,Blank,Blank,1 กล่อง,326,0,-39,10170,Bank Transfer,Lazada
+1076819578797612,Completed,16/1/2026,Blank,Blank,Standard,592.2,0,-37.8,21160,Bank Transfer,Lazada
+1076749568090056,Completed,16/1/2026,Blank,Blank,1 กล่อง,312,0,-39,33000,PayLater,Lazada
+1068795229524172,Completed,16/1/2026,Blank,Blank,Standard,552,0,-69,12120,PayLater,Lazada
+1076649913816627,Cancelled,15/1/2026,Blank,Blank,Standard,502,0,-69,10160,COD,Lazada
+1068709801817833,Completed,15/1/2026,Blank,Blank,Standard,335,0,0,10220,Bank Transfer,Lazada
+1076631734956972,Completed,15/1/2026,Blank,Blank,2 กล่อง,722,0,-38,10230,Bank Transfer,Lazada
+1068647089850043,Completed,15/1/2026,Blank,Blank,Standard,1090,0,0,71160,COD,Lazada
+1076577352247589,Completed,15/1/2026,Blank,Blank,Standard,1075.2,0,-14.8,10240,COD,Lazada
+1068567257914485,Completed,15/1/2026,Blank,Blank,Standard,1074.7,0,-15.3,10600,PayLater,Lazada
+1068570229062567,Completed,15/1/2026,Blank,Blank,Standard,716.33,26.33,0,70120,Credit Card,Lazada
+1068541892093893,Completed,15/1/2026,Blank,Blank,Standard,690,0,0,34150,Bank Transfer,Lazada
+1068541892093893,Completed,15/1/2026,Blank,Blank,Standard,690,0,0,34150,Bank Transfer,Lazada
+1068473483166581,Completed,14/1/2026,Blank,Blank,Standard,956.7,0,-42.3,10120,Credit Card,Lazada
+1068456700012019,Completed,14/1/2026,Blank,Blank,เลือกจำนวน:1 ขวด,139,0,0,10290,Bank Transfer,Lazada
+1076338909254356,Completed,14/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,73140,E-Wallet,Lazada
+1076268146100866,Completed,14/1/2026,Blank,Blank,Standard,655.5,0,-34.5,40190,Bank Transfer,Lazada
+1068348828008047,Completed,14/1/2026,Blank,Blank,Standard,799,0,0,10150,COD,Lazada
+1076170394638398,Cancelled,14/1/2026,Blank,Blank,Standard,291.55,0,-17.15,14160,Bank Transfer,Lazada
+1068175052718892,Completed,13/1/2026,Blank,Blank,1 กล่อง,302,0,-39,11110,Bank Transfer,Lazada
+1076074586548502,Completed,13/1/2026,Blank,Blank,Standard,487,0,-69,20230,Bank Transfer,Lazada
+1068176601638398,Cancelled,13/1/2026,Blank,Blank,Standard,325.85,0,-17.15,14160,Bank Transfer,Lazada
+1075987578891878,Completed,13/1/2026,Blank,Blank,Standard,682.8,0,-7.2,49130,COD,Lazada
+1075962736008538,Completed,13/1/2026,Blank,Blank,Standard,1890.5,0,-99.5,10160,Credit Card,Lazada
+1075922719494824,Completed,13/1/2026,Blank,Blank,Standard,1132.5,0,-67.5,20110,COD,Lazada
+1075895750504018,Completed,12/1/2026,Blank,Blank,Standard,259.25,0,-15.25,86180,COD,Lazada
+1075851923378647,Completed,12/1/2026,Blank,Blank,Standard,1162.5,0,-67.5,73220,Credit Card,Lazada
+1075789581363309,Cancelled,12/1/2026,Blank,Blank,Standard,563.6,0,-69,10160,COD,Lazada
+1075781544171983,Completed,12/1/2026,Blank,Blank,Standard,617.1,0,-27.9,12000,Bank Transfer,Lazada
+1067880675742761,Completed,12/1/2026,Blank,Blank,Standard,977.2,0,-21.8,30360,COD,Lazada
+1067880631061061,Cancelled,12/1/2026,Blank,Blank,Standard,517.5,0,-69,93000,Other,Lazada
+1067870084909856,Completed,12/1/2026,Blank,Blank,Standard,1249,0,-1,93110,COD,Lazada
+1075665182364469,Completed,12/1/2026,Blank,Blank,3 กล่อง,1073.5,0,-56.5,83100,Credit Card,Lazada
+1075665512830591,Completed,12/1/2026,Blank,Blank,Standard,538.5,0,-69,20230,COD,Lazada
+1075643512092160,Cancelled,11/1/2026,Blank,Blank,Standard,1085.7,0,-199,10140,COD,Lazada
+1075636564028475,Completed,11/1/2026,Blank,Blank,Standard,1078.2,0,-199,10400,COD,Lazada
+1067753225741299,Completed,11/1/2026,Blank,Blank,Standard,915.5,0,-54.5,30240,PayLater,Lazada
+1067723243906127,Completed,11/1/2026,Blank,Blank,Standard,1147.5,0,-67.5,66000,COD,Lazada
+1067712898448567,Completed,11/1/2026,Blank,Blank,Standard,1078.9,0,-11.1,73160,COD,Lazada
+1067671216866695,Completed,11/1/2026,Blank,Blank,Standard,450.2,0,-69,20160,Bank Transfer,Lazada
+1067654671356371,Completed,11/1/2026,Blank,Blank,Standard,867.8,0,-4.2,10170,COD,Lazada
+1075516962330952,Completed,11/1/2026,Blank,Blank,Standard,448.5,0,-69,11110,Bank Transfer,Lazada
+1075506196184604,Completed,11/1/2026,Blank,Blank,Standard,926.5,0,-54.5,13130,Credit Card,Lazada
+1067645031785111,Completed,11/1/2026,Blank,Blank,Standard,1195.9,0,-19.1,35130,COD,Lazada
+1075456706936336,Completed,11/1/2026,Blank,Blank,Standard,816.7,0,-135,20230,Credit Card,Lazada
+1067426287040514,Completed,10/1/2026,Blank,Blank,Standard,1350,0,0,80190,Bank Transfer,Lazada
+1067329880835171,Completed,10/1/2026,Blank,Blank,Standard,850.5,0,-135,20230,Bank Transfer,Lazada
+1067303085213387,Completed,9/1/2026,Blank,Blank,1 กล่อง,390,0,0,20150,COD,Lazada
+1075140917144488,Cancelled,9/1/2026,Blank,Blank,Standard,872,0,,10280,Other,Lazada
+1075115729711915,Completed,9/1/2026,Blank,Blank,Standard,631.1,0,-3.9,83000,PayLater,Lazada
+1075079529558491,Completed,9/1/2026,Blank,Blank,Standard,1041.5,0,-33.5,10600,Bank Transfer,Lazada
+1075068560458491,Cancelled,9/1/2026,Blank,Blank,Standard,1046.5,0,-33.5,10600,Bank Transfer,Lazada
+1067198656092689,Completed,9/1/2026,Blank,Blank,Standard,877.5,0,-135,71240,COD,Lazada
+1075050192392689,Completed,9/1/2026,Blank,Blank,Standard,1222.5,0,-67.5,71240,COD,Lazada
+1075060926697357,Completed,9/1/2026,Blank,Blank,Standard,186,0,-3,17000,COD,Lazada
+1067147693704662,Completed,9/1/2026,Blank,Blank,Standard,586.5,0,-34.5,36230,COD,Lazada
+1074998347327224,Completed,9/1/2026,Blank,Blank,Standard,1059,0,-21,40000,COD,Lazada
+1075000702227224,Cancelled,9/1/2026,Blank,Blank,Standard,547.8,0,-69,40000,COD,Lazada
+1067077426352981,Completed,8/1/2026,Blank,Blank,Standard,677,0,-13,21120,COD,Lazada
+1074890767550657,Completed,8/1/2026,Blank,Blank,Standard,526.8,0,-69,10250,Bank Transfer,Lazada
+1066998650084609,Completed,8/1/2026,Blank,Blank,Standard,1305.2,0,-44.8,10520,PayLater,Lazada
+1066974402187330,Completed,8/1/2026,Blank,Blank,Standard,1980,0,-10,10270,Bank Transfer,Lazada
+1066941632799895,Completed,8/1/2026,Blank,Blank,Standard,393,0,-69,90100,Credit Card,Lazada
+1066938040613292,Completed,8/1/2026,Blank,Blank,Standard,675,0,-135,10220,Credit Card,Lazada
+1074784552062567,Completed,8/1/2026,Blank,Blank,Standard,690,0,0,70120,Credit Card,Lazada
+1066917065658491,Completed,8/1/2026,Blank,Blank,Standard,544.5,0,-69,10600,Bank Transfer,Lazada
+1066910417011493,Completed,8/1/2026,Blank,Blank,Standard,592.7,0,-28.3,24160,COD,Lazada
+1074736182811493,Cancelled,8/1/2026,Blank,Blank,Standard,537.85,0,-14.15,24160,COD,Lazada
+1074736182811493,Cancelled,8/1/2026,Blank,Blank,Standard,537.85,0,-14.15,24160,COD,Lazada
+1066865491160048,Completed,7/1/2026,Blank,Blank,Standard,1036.7,0,-135,15000,Bank Transfer,Lazada
+1066758650280912,Package Returned,7/1/2026,Blank,Blank,1 กล่อง,370.5,0,-19.5,10110,COD,Lazada
+1074590142566872,Completed,7/1/2026,Blank,Blank,Standard,1990,0,0,20230,Credit Card,Lazada
+1074499125362380,Completed,7/1/2026,Blank,Blank,Standard,845,0,-135,10400,Credit Card,Lazada
+1074435984662380,Completed,6/1/2026,Blank,Blank,Standard,1075,0,-135,10400,Credit Card,Lazada
+1074379732023727,Cancelled,6/1/2026,Blank,Blank,Standard,613.5,0,-69,10220,Other,Lazada
+1074363704683964,Cancelled,6/1/2026,Blank,Blank,Standard,655.5,0,-34.5,20000,COD,Lazada
+1074306990221136,Completed,6/1/2026,Blank,Blank,Standard,1779.5,0,-30.5,21000,PayLater,Lazada
+1074302504408920,Completed,6/1/2026,Blank,Blank,Standard,483,0,-69,20230,COD,Lazada
+1074302504408920,Completed,6/1/2026,Blank,Blank,Standard,27.55,0,-1.45,20230,COD,Lazada
+1066399036996736,Completed,6/1/2026,Blank,Blank,Standard,615.5,0,-34.5,31130,COD,Lazada
+1066373040676449,Completed,6/1/2026,Blank,Blank,Standard,885,0,-135,24130,PayLater,Lazada
+1074210776916965,Completed,6/1/2026,Blank,Blank,Standard,483,0,-69,13130,COD,Lazada
+1074147949488367,Completed,5/1/2026,Blank,Blank,1 กล่อง,333.6,0,-16.4,10150,PayLater,Lazada
+1066202098260672,Completed,5/1/2026,Blank,Blank,Standard,655.5,0,-34.5,57180,COD,Lazada
+1066200834955907,Cancelled,5/1/2026,Blank,Blank,Standard,946.18,0,-135,10540,PayLater,Lazada
+1074038707820495,Completed,5/1/2026,Blank,Blank,Standard,483,0,-69,75110,COD,Lazada
+1074029377355907,Cancelled,5/1/2026,Blank,Blank,Standard,1592.3,0,-199,10540,PayLater,Lazada
+1066138876616797,Completed,5/1/2026,Blank,Blank,Standard,1070,0,-20,36000,COD,Lazada
+1073957788065420,Completed,5/1/2026,Blank,Blank,3 กล่อง,1027.7,0,-102.3,50210,PayLater,Lazada
+1073965177144958,Completed,5/1/2026,Blank,Blank,Standard,483,0,-69,41000,COD,Lazada
+1066075890944958,Completed,5/1/2026,Blank,Blank,Standard,483,0,-69,41000,COD,Lazada
+1073914120532639,Completed,5/1/2026,Blank,Blank,Standard,483,0,-69,73120,Credit Card,Lazada
+1073873123084989,Cancelled,4/1/2026,Blank,Blank,1 กล่อง,273,0,-39,10700,Credit Card,Lazada
+1073843706557130,Completed,4/1/2026,Blank,Blank,Standard,776.6,0,-22.4,65000,Bank Transfer,Lazada
+1073807921100318,Completed,4/1/2026,Blank,Blank,Standard,403,0,-69,12120,PayLater,Lazada
+1065948863100318,Cancelled,4/1/2026,Blank,Blank,Standard,445,0,-69,12120,PayLater,Lazada
+1073734771560104,Completed,4/1/2026,Blank,Blank,Standard,413,0,-69,15150,Other,Lazada
+1073734771560104,Completed,4/1/2026,Blank,Blank,Standard,413,0,-69,15150,Other,Lazada
+1073705383893089,Completed,4/1/2026,Blank,Blank,Standard,670,0,-20,41000,COD,Lazada
+1073673910560104,Completed,4/1/2026,Blank,Blank,Standard,855,0,-135,10250,Other,Lazada
+1065752249513497,Completed,3/1/2026,Blank,Blank,Standard,688,0,-109,10150,Credit Card,Lazada
+1073569901704428,Completed,3/1/2026,Blank,Blank,Standard,875,0,-135,30130,Credit Card,Lazada
+1073511157530591,Completed,3/1/2026,Blank,Blank,Standard,566.9,0,-69,20230,COD,Lazada
+1065657849128726,Completed,3/1/2026,Blank,Blank,Standard,590.5,0,-34.5,20150,Other,Lazada
+1073486140061588,Completed,3/1/2026,Blank,Blank,Standard,688.5,0,-1.5,24000,COD,Lazada
+1065631058378647,Completed,3/1/2026,Blank,Blank,Standard,486.25,0,-69,73220,Credit Card,Lazada
+1065631058378647,Completed,3/1/2026,Blank,Blank,Standard,486.25,0,-69,73220,Credit Card,Lazada
+1073477322678647,Completed,3/1/2026,Blank,Blank,Standard,1182.5,0,-67.5,73220,Credit Card,Lazada
+1065639415910635,Completed,3/1/2026,Blank,Blank,Standard,667,0,-23,64110,Credit Card,Lazada
+1073447118940581,Completed,3/1/2026,Blank,Blank,Standard,663.2,0,-26.8,66000,PayLater,Lazada
+1065587003784294,Completed,2/1/2026,Blank,Blank,Standard,685.2,0,-4.8,12000,COD,Lazada
+1065549499178800,Completed,2/1/2026,Blank,Blank,Standard,659,0,-1,11130,Bank Transfer,Lazada
+1065561824399292,Completed,2/1/2026,Blank,Blank,Standard,615.5,0,-34.5,46110,Bank Transfer,Lazada
+1073386355163670,Completed,2/1/2026,Blank,Blank,Standard,655.5,0,-34.5,10230,COD,Lazada
+1073349165921288,Completed,2/1/2026,Blank,Blank,Standard,1234.2,0,-45.8,18110,PayLater,Lazada
+1065490061404994,Completed,2/1/2026,Blank,Blank,Standard,476.5,0,-69,83000,COD,Lazada
+1065482651076179,Completed,2/1/2026,Blank,Blank,Standard,617.5,0,-34.5,10220,COD,Lazada
+1065465043572403,Completed,2/1/2026,Blank,Blank,Standard,995.5,0,-54.5,51120,Bank Transfer,Lazada
+1073272971466950,Completed,2/1/2026,Blank,Blank,Standard,571.9,0,-69,36000,Bank Transfer,Lazada
+1073279749884507,Package Returned,2/1/2026,Blank,Blank,Standard,1090,0,0,12120,COD,Lazada
+1073259775573008,Completed,2/1/2026,Blank,Blank,Standard,676.5,0,-13.5,82000,COD,Lazada
+1065430824663421,Completed,2/1/2026,Blank,Blank,Standard,483,0,-69,38180,COD,Lazada
+1073218774744992,Completed,1/1/2026,Blank,Blank,Standard,655.5,0,-34.5,11110,Bank Transfer,Lazada
+1073220504449814,Completed,1/1/2026,Blank,Blank,Standard,590.5,0,-34.5,74110,Credit Card,Lazada
+1065349654195935,Completed,1/1/2026,Blank,Blank,Standard,416.85,0,-69,73110,Bank Transfer,Lazada
+1065347465606892,Completed,1/1/2026,Blank,Blank,Standard,655.5,0,-34.5,10170,E-Wallet,Lazada
+1065342273195145,Completed,1/1/2026,Blank,Blank,Standard,626.5,0,-34.5,21000,Bank Transfer,Lazada
+1065350833373874,Completed,1/1/2026,Blank,Blank,Standard,655.5,0,-34.5,12000,PayLater,Lazada
+1065338254713387,Completed,1/1/2026,Blank,Blank,1 กล่อง,390,0,0,20150,COD,Lazada
+1065341626895009,Completed,1/1/2026,Blank,Blank,Standard,1340,0,-10,73000,PayLater,Lazada
+1065344810712690,Completed,1/1/2026,Blank,Blank,Standard,1270,0,-10,10570,PayLater,Lazada
+1065316827458981,Completed,1/1/2026,Blank,Blank,Standard,621,0,-69,41220,PayLater,Lazada
+1073124185406598,Cancelled,1/1/2026,Blank,Blank,Standard,608.8,0,-69,13170,Other,Lazada
+1073125537306648,Completed,1/1/2026,Blank,Blank,Standard,763,0,-109,43100,COD,Lazada
+1065295620075251,Completed,1/1/2026,Blank,Blank,Standard,216,0,-69,20000,COD,Lazada
+1065278899261317,Completed,1/1/2026,Blank,Blank,Standard,656.7,0,-33.3,10160,COD,Lazada
+1072916522556022,Cancelled,30/12/2025,Blank,Blank,Standard,655.5,0,-34.5,84000,COD,Lazada
+1072722378188076,Cancelled,29/12/2025,Blank,Blank,Standard,660,0,0,10160,Other,Lazada
+1072718305907351,Completed,29/12/2025,Blank,Blank,Standard,973.8,0,-25.2,10100,COD,Lazada
+1064846688542204,Completed,29/12/2025,Blank,Blank,Standard,655.5,0,-34.5,10510,Bank Transfer,Lazada
+1072648595984912,Completed,29/12/2025,Blank,Blank,Standard,983.5,0,-135,10120,Bank Transfer,Lazada
+1064791286800665,Completed,29/12/2025,Blank,Blank,1 กล่อง,248,0,-39,80000,E-Wallet,Lazada
+1072577964300665,Cancelled,28/12/2025,Blank,Blank,1 กล่อง,248,0,-39,80000,Bank Transfer,Lazada
+1072526160233207,Completed,28/12/2025,Blank,Blank,Standard,324,0,-18,72240,Bank Transfer,Lazada
+1064599426556972,Completed,28/12/2025,Blank,Blank,1 กล่อง,271.3,0,-39,10230,Bank Transfer,Lazada
+1072412929431216,Completed,28/12/2025,Blank,Blank,1 กล่อง,289.4,0,-39,30000,PayLater,Lazada
+1064573653960302,Completed,28/12/2025,Blank,Blank,Standard,209.55,30,-9.45,10570,COD,Lazada
+1072398983867223,Completed,28/12/2025,Blank,Blank,Standard,967.45,0,-135,10400,Bank Transfer,Lazada
+1072311570415405,Completed,27/12/2025,Blank,Blank,1 กล่อง,370.19,0,-19.5,20220,COD,Lazada
+1064397892699895,Completed,27/12/2025,Blank,Blank,Standard,414,0,-69,90100,Credit Card,Lazada
+1072208974471922,Completed,27/12/2025,Blank,Blank,Standard,483,0,-69,11110,PayLater,Lazada
+1072128778811915,Completed,26/12/2025,Blank,Blank,Standard,626.6,0,-58.8,83000,PayLater,Lazada
+1064289488397940,Completed,26/12/2025,Blank,Blank,Standard,530.2,0,-69,30110,Credit Card,Lazada
+1072126701029651,Completed,26/12/2025,Blank,Blank,2 กล่อง,750,0,-10,83000,Credit Card,Lazada
+1072083587064572,Cancelled,26/12/2025,Blank,Blank,Standard,1090,0,0,24130,COD,Lazada
+1071984777478799,Completed,26/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10260,PayLater,Lazada
+1064091012530216,Completed,25/12/2025,Blank,Blank,Standard,483,0,-69,30370,COD,Lazada
+1064066643697612,Completed,25/12/2025,Blank,Blank,Standard,581.1,0,-69,21160,Bank Transfer,Lazada
+1071912792603401,Completed,25/12/2025,Blank,Blank,Standard,1837.2,0,-56.1,20150,PayLater,Lazada
+1064064460684064,Completed,25/12/2025,Blank,Blank,Standard,1090,0,0,10110,COD,Lazada
+1063972252556436,Completed,25/12/2025,Blank,Blank,Standard,1342.4,0,-7.6,10280,PayLater,Lazada
+1071822951536295,Completed,25/12/2025,Blank,Blank,Standard,483,0,-69,10310,Credit Card,Lazada
+1063958488745638,Completed,25/12/2025,Blank,Blank,1 กล่อง,243,0,-39,10240,PayLater,Lazada
+1071804917568931,Completed,25/12/2025,Blank,Blank,1 กล่อง,374.9,0,-15.1,10220,Credit Card,Lazada
+1071714128532549,Completed,24/12/2025,Blank,Blank,3 กล่อง,1130,0,0,10110,Bank Transfer,Lazada
+1063860001829651,Cancelled,24/12/2025,Blank,Blank,2 กล่อง,760,0,0,83000,Other,Lazada
+1071699942952740,Completed,24/12/2025,Blank,Blank,Standard,464.2,0,-69,84000,COD,Lazada
+1071679159513456,Completed,24/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,43000,Bank Transfer,Lazada
+1071625941260449,Completed,24/12/2025,Blank,Blank,1 กล่อง,390,0,0,10310,Other,Lazada
+1063700291981426,Completed,24/12/2025,Blank,Blank,1 กล่อง,273,0,-39,41220,PayLater,Lazada
+1063686095241307,Completed,24/12/2025,Blank,Blank,Standard,421.4,0,-119,10900,COD,Lazada
+1063683296511143,Completed,24/12/2025,Blank,Blank,Standard,655.5,0,-34.5,20270,COD,Lazada
+1063633289796579,Completed,23/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,52000,Credit Card,Lazada
+1063435809780956,Completed,23/12/2025,Blank,Blank,Standard,483,0,-69,10240,Credit Card,Lazada
+1071218367613292,Completed,22/12/2025,Blank,Blank,Standard,895,0,-135,10220,Credit Card,Lazada
+1063324259220693,Completed,22/12/2025,Blank,Blank,Standard,536.9,0,-69,10110,Bank Transfer,Lazada
+1063324259220693,Completed,22/12/2025,Blank,Blank,Standard,33.25,0,-1.75,10110,Bank Transfer,Lazada
+1071175719373158,Completed,22/12/2025,Blank,Blank,1 กล่อง,360,0,0,10110,PayLater,Lazada
+1071133575321848,Completed,22/12/2025,Blank,Blank,Standard,470.5,0,-69,81000,E-Wallet,Lazada
+1071133575321848,Completed,22/12/2025,Blank,Blank,Standard,470.5,0,-69,81000,E-Wallet,Lazada
+1071143900299310,Completed,22/12/2025,Blank,Blank,Standard,655.5,0,-34.5,55170,PayLater,Lazada
+1071131324695007,Completed,22/12/2025,Blank,Blank,1 กล่อง,273,0,-39,73120,COD,Lazada
+1063265210928516,Completed,22/12/2025,Blank,Blank,Standard,453,0,-69,14000,COD,Lazada
+1063240222744873,Completed,22/12/2025,Blank,Blank,Standard,690,0,0,14150,COD,Lazada
+1063226044923249,Cancelled,22/12/2025,Blank,Blank,1 กล่อง,273,0,-39,27210,PayLater,Lazada
+1063156482272584,Completed,21/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,50130,COD,Lazada
+1063139022536295,Completed,21/12/2025,Blank,Blank,Standard,1412.5,0,-199,10310,Credit Card,Lazada
+1063050680017080,Completed,21/12/2025,Blank,Blank,Standard,179.55,0,-9.45,57240,COD,Lazada
+1063046476246387,Completed,21/12/2025,Blank,Blank,Standard,1312.4,0,-24.6,40170,COD,Lazada
+1070860371206342,Completed,21/12/2025,Blank,Blank,1 กล่อง,273,0,-39,10250,Bank Transfer,Lazada
+1070728196338057,Completed,20/12/2025,Blank,Blank,Standard,441.9,0,-69,10270,E-Wallet,Lazada
+1062868411539979,Completed,20/12/2025,Blank,Blank,Standard,483,0,-69,10900,COD,Lazada
+1070691315844263,Cancelled,20/12/2025,Blank,Blank,Standard,675.1,0,-14.9,18220,COD,Lazada
+1070687346944263,Cancelled,20/12/2025,Blank,Blank,Standard,659.9,0,-30.1,18220,COD,Lazada
+1070634554700741,Completed,20/12/2025,Blank,Blank,Standard,655.5,0,-34.5,10120,Bank Transfer,Lazada
+1070600928357505,Completed,19/12/2025,Blank,Blank,Standard,662.4,0,-27.6,10130,Bank Transfer,Lazada
+1070449560516338,Completed,19/12/2025,Blank,Blank,Standard,1070.5,0,-19.5,46110,E-Wallet,Lazada
+1062593854939222,Completed,19/12/2025,Blank,Blank,Standard,655.5,0,-34.5,20110,COD,Lazada
+1062484884561438,Completed,18/12/2025,Blank,Blank,Standard,975,0,-24,12000,COD,Lazada
+1062427029394354,Completed,18/12/2025,Blank,Blank,Standard,1070,0,-20,65120,COD,Lazada
+1070210734188172,Completed,18/12/2025,Blank,Blank,Standard,640,0,0,44140,COD,Lazada
+1062350628180161,Completed,18/12/2025,Blank,Blank,Standard,1035.5,0,-54.5,21000,Credit Card,Lazada
+1070152527239979,Cancelled,18/12/2025,Blank,Blank,Standard,483,0,-69,10900,E-Wallet,Lazada
+1070098771546071,Completed,17/12/2025,Blank,Blank,Standard,945,0,-135,80000,COD,Lazada
+1070028179937982,Completed,17/12/2025,Blank,Blank,Standard,666.34,10.84,-34.5,10250,COD,Lazada
+1062135097447457,Completed,17/12/2025,Blank,Blank,Standard,1350,0,0,15230,Bank Transfer,Lazada
+1069929943125102,Completed,17/12/2025,Blank,Blank,Standard,999,0,0,50000,COD,Lazada
+1069926528136878,Completed,17/12/2025,Blank,Blank,Standard,352.5,0,-7.5,66230,COD,Lazada
+1069896304656972,Completed,17/12/2025,Blank,Blank,1 กล่อง,273,0,-39,10230,Bank Transfer,Lazada
+1069811990246147,Completed,16/12/2025,Blank,Blank,Standard,483,0,-69,50220,Bank Transfer,Lazada
+1069774732916181,Cancelled,16/12/2025,Blank,Blank,1 กล่อง,345.5,0,-19.5,76130,Bank Transfer,Lazada
+1069748524924172,Completed,16/12/2025,Blank,Blank,Standard,655.5,0,-34.5,12120,PayLater,Lazada
+1061905838024305,Completed,16/12/2025,Blank,Blank,Standard,575.5,0,-34.5,30130,COD,Lazada
+1061840695235388,Completed,16/12/2025,Blank,Blank,Standard,677.75,0,-12.25,35130,COD,Lazada
+1061840695235388,Completed,16/12/2025,Blank,Blank,Standard,677.75,0,-12.25,35130,COD,Lazada
+1069650166393150,Completed,16/12/2025,Blank,Blank,Standard,493.2,0,-69,26120,PayLater,Lazada
+1061830431300049,Completed,16/12/2025,Blank,Blank,Standard,667.1,0,-22.9,44130,COD,Lazada
+1069629184066175,Completed,16/12/2025,Blank,Blank,Standard,1350,0,0,11120,Bank Transfer,Lazada
+1069599918107366,Completed,15/12/2025,Blank,Blank,Standard,494.8,0,-69,10210,PayLater,Lazada
+1061716861335723,Completed,15/12/2025,Blank,Blank,Standard,661.6,0,-28.4,76130,PayLater,Lazada
+1061696011432287,Completed,15/12/2025,Blank,Blank,1 กล่อง,273,0,-39,20160,Bank Transfer,Lazada
+1061692605959652,Completed,15/12/2025,Blank,Blank,Standard,621.5,0,-68.5,76170,PayLater,Lazada
+1069489988338626,Completed,15/12/2025,Blank,Blank,Standard,525,0,-55,70150,COD,Lazada
+1069457708252287,Completed,15/12/2025,Blank,Blank,Standard,1079.4,0,-10.6,42000,COD,Lazada
+1069439307451722,Completed,15/12/2025,Blank,Blank,Standard,588.2,0,-21.8,10220,Credit Card,Lazada
+1061551040044020,Completed,15/12/2025,Blank,Blank,1 กล่อง,273,0,-39,13210,COD,Lazada
+1061544836540554,Cancelled,15/12/2025,Blank,Blank,Standard,545.2,0,-44.8,12140,Credit Card,Lazada
+1069342113049664,Completed,14/12/2025,Blank,Blank,Standard,483,0,-69,10260,COD,Lazada
+1069340708988262,Completed,14/12/2025,Blank,Blank,Standard,132,0,-16.5,30000,Bank Transfer,Lazada
+1069306114699895,Completed,14/12/2025,Blank,Blank,Standard,368.85,24.19,-69,90100,Credit Card,Lazada
+1061409847548678,Completed,14/12/2025,Blank,Blank,1 กล่อง,340,0,0,10600,Bank Transfer,Lazada
+1069215360358353,Completed,14/12/2025,Blank,Blank,1 กล่อง,273,0,-39,11000,Bank Transfer,Lazada
+1061356266716665,Completed,14/12/2025,Blank,Blank,Standard,690,0,0,10240,Credit Card,Lazada
+1069204324374540,Cancelled,14/12/2025,Blank,Blank,Standard,132,0,-16.5,10250,Bank Transfer,Lazada
+1069142172185693,Completed,14/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,71240,COD,Lazada
+1061350815340365,Completed,14/12/2025,Blank,Blank,Standard,789.8,0,-9.2,12000,PayLater,Lazada
+1061305427776364,Completed,14/12/2025,Blank,Blank,Standard,845,0,-135,10170,Bank Transfer,Lazada
+1069108533642248,Completed,14/12/2025,Blank,Blank,1 กล่อง,381.56,11.06,-19.5,10900,E-Wallet,Lazada
+1069076106950035,Completed,14/12/2025,Blank,Blank,Standard,1089,0,-1,71110,Bank Transfer,Lazada
+1068930599551328,Completed,13/12/2025,Blank,Blank,Standard,1067.3,0,-22.7,57170,COD,Lazada
+1061131642160287,Cancelled,13/12/2025,Blank,Blank,Standard,124,0,-15.5,91110,Bank Transfer,Lazada
+1061096005319731,Completed,13/12/2025,Blank,Blank,Standard,492.5,0,-69,51000,Other,Lazada
+1068787768065914,Completed,13/12/2025,Blank,Blank,2 กล่อง,760,0,0,57130,COD,Lazada
+1060939078308538,Completed,13/12/2025,Blank,Blank,Standard,1282.5,0,-67.5,10160,Credit Card,Lazada
+1060914699835650,Completed,13/12/2025,Blank,Blank,Standard,869.05,0,-49.95,10220,E-Wallet,Lazada
+1068796523035650,Cancelled,13/12/2025,Blank,Blank,Standard,878.7,0,-99.9,10220,Bank Transfer,Lazada
+1068806902500729,Cancelled,13/12/2025,Blank,Blank,Standard,661.8,0,-28.2,60150,COD,Lazada
+1060857280672359,Cancelled,13/12/2025,Blank,Blank,Standard,215,0,-32,90130,Other,Lazada
+1060847286380447,Completed,13/12/2025,Blank,Blank,Standard,655.5,0,-34.5,50100,COD,Lazada
+1060701669819687,Completed,12/12/2025,Blank,Blank,Standard,565.5,0,-44.5,41340,E-Wallet,Lazada
+1060701669819687,Completed,12/12/2025,Blank,Blank,Standard,0,0,-99,41340,E-Wallet,Lazada
+1068534375660287,Cancelled,12/12/2025,Blank,Blank,Standard,122.4,0,-15.3,91110,Bank Transfer,Lazada
+1060729664672977,Completed,12/12/2025,Blank,Blank,Standard,807.5,0,-119,75000,Credit Card,Lazada
+1060729664672977,Completed,12/12/2025,Blank,Blank,Standard,0,0,-99,75000,Credit Card,Lazada
+1068552731167722,Cancelled,12/12/2025,Blank,Blank,Standard,122.4,0,-15.3,91110,Bank Transfer,Lazada
+1068461719188262,Cancelled,12/12/2025,Blank,Blank,Standard,132,0,-16.5,30000,Bank Transfer,Lazada
+1068245315558491,Completed,12/12/2025,Blank,Blank,Standard,482.5,0,-79,10600,Bank Transfer,Lazada
+1068245315558491,Completed,12/12/2025,Blank,Blank,Standard,0,0,-99,10600,Bank Transfer,Lazada
+1060437804713292,Completed,12/12/2025,Blank,Blank,Standard,902.5,0,-145,10220,Credit Card,Lazada
+1060437804713292,Completed,12/12/2025,Blank,Blank,Standard,0,0,-99,10220,Credit Card,Lazada
+1060341681720495,Cancelled,12/12/2025,Blank,Blank,Standard,1417.7,0,-209,10160,PayLater,Lazada
+1060341681720495,Cancelled,12/12/2025,Blank,Blank,Standard,0,0,-99,10160,PayLater,Lazada
+1068135311595935,Completed,12/12/2025,Blank,Blank,Standard,457.5,0,-79,73110,Bank Transfer,Lazada
+1068135311595935,Completed,12/12/2025,Blank,Blank,Standard,0,0,-99,73110,Bank Transfer,Lazada
+1067864769376650,Completed,11/12/2025,Blank,Blank,Standard,575.5,0,-34.5,10540,Credit Card,Lazada
+1067835111760104,Completed,11/12/2025,Blank,Blank,Standard,872.39,0,-135,10250,Other,Lazada
+1067755593751362,Completed,11/12/2025,Blank,Blank,Standard,655,0,-34.5,42140,COD,Lazada
+1067751141914697,Completed,11/12/2025,Blank,Blank,Standard,565.5,0,-84.5,80160,COD,Lazada
+1067749910600992,Completed,11/12/2025,Blank,Blank,Standard,696.57,6.57,0,20150,Credit Card,Lazada
+1067727502628636,Completed,11/12/2025,Blank,Blank,Standard,517.5,0,-69,10210,COD,Lazada
+1059789842487492,Completed,10/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,40150,Credit Card,Lazada
+1067589396883856,Completed,10/12/2025,Blank,Blank,Standard,517.38,0,-69,50110,COD,Lazada
+1067540989392388,Completed,10/12/2025,Blank,Blank,1 กล่อง,390,0,0,13110,COD,Lazada
+1059556094054881,Completed,9/12/2025,Blank,Blank,Standard,655.5,0,-34.5,70000,Bank Transfer,Lazada
+1059589207160104,Completed,9/12/2025,Blank,Blank,Standard,922.08,0,-135,15150,Other,Lazada
+1067354155630216,Completed,9/12/2025,Blank,Blank,Standard,477.5,0,-69,30370,PayLater,Lazada
+1059517021305680,Completed,9/12/2025,Blank,Blank,Standard,1288.4,0,-61.6,10270,E-Wallet,Lazada
+1059365014621136,Completed,8/12/2025,Blank,Blank,Standard,1612.18,0,-99.5,21000,PayLater,Lazada
+1059347412982341,Completed,8/12/2025,Blank,Blank,Standard,690,0,0,30110,COD,Lazada
+1059336007352017,Completed,8/12/2025,Blank,Blank,Standard,1990,0,0,10310,Bank Transfer,Lazada
+1067072746069701,Completed,8/12/2025,Blank,Blank,Standard,472.5,0,-69,10250,PayLater,Lazada
+1067028965793495,Completed,8/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10230,PayLater,Lazada
+1059184244713292,Completed,8/12/2025,Blank,Blank,Standard,975.65,0,-135,10220,Credit Card,Lazada
+1059136686389765,Completed,8/12/2025,Blank,Blank,1 กล่อง,339.79,0,-19.5,20130,Bank Transfer,Lazada
+1066974535099895,Completed,8/12/2025,Blank,Blank,Standard,986.9,0,-135,90100,Credit Card,Lazada
+1059172015835374,Completed,8/12/2025,Blank,Blank,Standard,634.5,0,-15.5,77130,COD,Lazada
+1059104082428850,Completed,7/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10220,Bank Transfer,Lazada
+1059113452518423,Completed,7/12/2025,Blank,Blank,Standard,540.5,0,-69,10280,COD,Lazada
+1059052296046973,Completed,7/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10120,Bank Transfer,Lazada
+1066818931526307,Completed,7/12/2025,Blank,Blank,1 กล่อง,365,0,0,10520,Credit Card,Lazada
+1066661362860104,Completed,6/12/2025,Blank,Blank,Standard,473.83,0,-69,15150,Other,Lazada
+1058760453214280,Completed,6/12/2025,Blank,Blank,Standard,1324.7,0,-25.3,77110,COD,Lazada
+1066527379272972,Completed,6/12/2025,Blank,Blank,Standard,1182.5,0,-67.5,27000,PayLater,Lazada
+1058731078579690,Completed,6/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10240,E-Wallet,Lazada
+1058563864706598,Completed,5/12/2025,Blank,Blank,Standard,655.5,0,-34.5,13170,PayLater,Lazada
+1058563864706598,Completed,5/12/2025,Blank,Blank,Standard,655.5,0,-34.5,13170,PayLater,Lazada
+1066271772912224,Completed,5/12/2025,Blank,Blank,Standard,655.5,0,-34.5,40110,PayLater,Lazada
+1066259348954271,Completed,4/12/2025,Blank,Blank,Standard,336.58,0,-49.9,10250,PayLater,Lazada
+1066242716569701,Cancelled,4/12/2025,Blank,Blank,Standard,467.5,0,-69,10250,PayLater,Lazada
+1058355294454881,Completed,4/12/2025,Blank,Blank,Standard,655.5,0,-34.5,75000,Bank Transfer,Lazada
+1066143101431574,Completed,4/12/2025,Blank,Blank,Standard,690,0,0,38210,COD,Lazada
+1065933774664325,Completed,3/12/2025,Blank,Blank,Standard,630.3,0,-18.3,10700,COD,Lazada
+1065827740151596,Completed,3/12/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,23000,COD,Lazada
+1065752379372972,Completed,3/12/2025,Blank,Blank,Standard,1310.3,0,-39.7,27000,PayLater,Lazada
+1057954047454881,Cancelled,2/12/2025,Blank,Blank,Standard,655.5,0,-34.5,30000,Bank Transfer,Lazada
+1057939445178821,Completed,2/12/2025,Blank,Blank,Standard,350,0,-10,31000,COD,Lazada
+1065689742978647,Completed,2/12/2025,Blank,Blank,Standard,605.5,0,-34.5,73220,Credit Card,Lazada
+1065689742978647,Completed,2/12/2025,Blank,Blank,Standard,605.5,0,-34.5,73220,Credit Card,Lazada
+1065623508738836,Completed,2/12/2025,Blank,Blank,Standard,483,0,-69,30170,COD,Lazada
+1065549525144847,Completed,2/12/2025,Blank,Blank,Standard,458,0,-69,10600,COD,Lazada
+1057714206972857,Completed,2/12/2025,Blank,Blank,Standard,684.1,0,-5.9,51110,COD,Lazada
+1065490304049814,Completed,2/12/2025,Blank,Blank,Standard,569.8,0,-40.2,74110,PayLater,Lazada
+1065408553344255,Completed,1/12/2025,Blank,Blank,Standard,1004.2,0,-135,21000,Bank Transfer,Lazada
+1057566043832827,Completed,1/12/2025,Blank,Blank,Standard,655.5,0,-34.5,81180,COD,Lazada
+1057566043832827,Completed,1/12/2025,Blank,Blank,Standard,655.5,0,-34.5,81180,COD,Lazada
+1057532025770095,Completed,1/12/2025,Blank,Blank,Standard,655.3,0,-9.7,10220,COD,Lazada
+1065236761611915,Completed,1/12/2025,Blank,Blank,Standard,623.5,0,-36.5,83000,PayLater,Lazada
+1065233961243000,Completed,1/12/2025,Blank,Blank,Standard,629.5,0,-34.5,57250,Bank Transfer,Lazada
+1057386493259652,Completed,30/11/2025,Blank,Blank,Standard,634.9,0,-29.1,76170,PayLater,Lazada
+1065078922287568,Completed,30/11/2025,Blank,Blank,Standard,684.65,0,-5.35,12000,Credit Card,Lazada
+1065078922287568,Completed,30/11/2025,Blank,Blank,Standard,684.65,0,-5.35,12000,Credit Card,Lazada
+1057257818960302,Completed,30/11/2025,Blank,Blank,Standard,208.55,29,-9.45,10570,COD,Lazada
+1057204498797569,Completed,30/11/2025,Blank,Blank,1 กล่อง,390,0,0,21140,Credit Card,Lazada
+1064836924133847,Completed,29/11/2025,Blank,Blank,1 กล่อง,383.8,0,-6.2,20230,Bank Transfer,Lazada
+1057002288302557,Completed,29/11/2025,Blank,Blank,3 กล่อง,1130,0,0,11120,COD,Lazada
+1064787110039222,Completed,29/11/2025,Blank,Blank,Standard,678,0,-12,20110,COD,Lazada
+1064787110039222,Completed,29/11/2025,Blank,Blank,Standard,678,0,-12,20110,COD,Lazada
+1056780034655557,Completed,28/11/2025,Blank,Blank,2 กล่อง,784.02,24.02,0,11140,Credit Card,Lazada
+1064552704893893,Completed,28/11/2025,Blank,Blank,Standard,684.3,0,-5.7,34150,Bank Transfer,Lazada
+1064537397068700,Completed,28/11/2025,Blank,Blank,Standard,483,0,-69,12130,PayLater,Lazada
+1056699244352244,Completed,28/11/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10140,Bank Transfer,Lazada
+1056575052756422,Completed,27/11/2025,Blank,Blank,Standard,1990,0,0,57130,COD,Lazada
+1056552471176262,Completed,27/11/2025,Blank,Blank,Standard,655.5,0,-34.5,50270,Other,Lazada
+1064313121558491,Completed,27/11/2025,Blank,Blank,Standard,504.8,0,-69,46110,Bank Transfer,Lazada
+1056504424111493,Completed,27/11/2025,Blank,Blank,Standard,671.2,0,-18.8,24160,COD,Lazada
+1064265371630906,Completed,27/11/2025,Blank,Blank,Standard,945,0,-135,10150,Credit Card,Lazada
+1064233979963599,Completed,27/11/2025,Blank,Blank,Standard,380.5,0,-69,10160,Credit Card,Lazada
+1064233979963599,Completed,27/11/2025,Blank,Blank,Standard,380.5,0,-69,10160,Credit Card,Lazada
+1056437277514661,Completed,27/11/2025,Blank,Blank,Standard,625.41,0,-34.5,20150,Bank Transfer,Lazada
+1056437277514661,Completed,27/11/2025,Blank,Blank,Standard,625.41,0,-34.5,20150,Bank Transfer,Lazada
+1056348288795786,Completed,26/11/2025,Blank,Blank,Standard,1330,0,-20,24130,Bank Transfer,Lazada
+1056333893976786,Completed,26/11/2025,Blank,Blank,Standard,1328.5,0,-21.5,81180,PayLater,Lazada
+1064088536899092,Completed,26/11/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10160,PayLater,Lazada
+1056276458891906,Completed,26/11/2025,Blank,Blank,Standard,665.3,0,-24.7,52130,COD,Lazada
+1056266687760618,Completed,26/11/2025,Blank,Blank,Standard,575.5,0,-34.5,11000,Credit Card,Lazada
+1056233868080956,Completed,26/11/2025,Blank,Blank,Standard,483,0,-69,10240,Credit Card,Lazada
+1063970995332367,Package Returned,25/11/2025,Blank,Blank,Standard,690,0,0,10520,COD,Lazada
+1056150401061588,Completed,25/11/2025,Blank,Blank,Standard,624,0,-16,24000,COD,Lazada
+1063921595100729,Completed,25/11/2025,Blank,Blank,Standard,605.5,0,-34.5,60150,COD,Lazada
+1063878911970141,Completed,25/11/2025,Blank,Blank,Standard,639,0,-51,11120,Bank Transfer,Lazada
+1063759705776309,Completed,25/11/2025,Blank,Blank,Standard,433,0,-119,11150,COD,Lazada
+1055967020402265,Completed,25/11/2025,Blank,Blank,Standard,1349.1,0,-0.9,50210,Credit Card,Lazada
+1063739157456972,Completed,25/11/2025,Blank,Blank,1 กล่อง,273,0,-39,10230,Bank Transfer,Lazada
+1063736520338139,Completed,25/11/2025,Blank,Blank,Standard,445.9,0,-69,15000,Credit Card,Lazada
+1063730980662105,Completed,25/11/2025,Blank,Blank,Standard,455.4,0,-69,15000,Credit Card,Lazada
+1055949673378799,Completed,25/11/2025,Blank,Blank,1 กล่อง,373,0,-17,10260,PayLater,Lazada
+1055908885774773,Completed,24/11/2025,Blank,Blank,Standard,622.5,0,-12.5,11110,E-Wallet,Lazada
+1063457315963708,Completed,23/11/2025,Blank,Blank,Standard,655.5,0,-34.5,10260,Bank Transfer,Lazada
+1063457315963708,Completed,23/11/2025,Blank,Blank,Standard,655.5,0,-34.5,10260,Bank Transfer,Lazada
+1063419591922095,Completed,23/11/2025,Blank,Blank,Standard,674.85,0,-15.15,10530,Bank Transfer,Lazada
+1063419591922095,Completed,23/11/2025,Blank,Blank,Standard,674.85,0,-15.15,10530,Bank Transfer,Lazada
+1063387925103977,Completed,23/11/2025,Blank,Blank,Standard,656,0,-34,12170,E-Wallet,Lazada
+1063361169430470,Completed,23/11/2025,Blank,Blank,Standard,1482.5,0,-199,11120,Bank Transfer,Lazada
+1055561623265389,Completed,23/11/2025,Blank,Blank,Standard,1332.1,0,-17.9,76000,COD,Lazada
+1055535250340551,Completed,23/11/2025,Blank,Blank,1 กล่อง,273,0,-39,24130,PayLater,Lazada
+1063262332783492,Completed,22/11/2025,Blank,Blank,Standard,1322.7,0,-27.3,10270,E-Wallet,Lazada
+1063255920130470,Completed,22/11/2025,Blank,Blank,Standard,1700.5,0,-99.5,11120,Bank Transfer,Lazada
+1055338689027224,Completed,22/11/2025,Blank,Blank,Standard,634.8,0,-31.2,40000,COD,Lazada
+1055307670599818,Completed,21/11/2025,Blank,Blank,Standard,1310.4,0,-39.6,42100,PayLater,Lazada
+1063073502626825,Completed,21/11/2025,Blank,Blank,1 กล่อง,340.5,0,-19.5,10110,PayLater,Lazada
+1055277096413979,Completed,21/11/2025,Blank,Blank,Standard,1287.3,0,-38.7,86120,PayLater,Lazada
+1063042346875658,Completed,21/11/2025,Blank,Blank,3 กล่อง,993.5,0,-56.5,63110,COD,Lazada
+1055229869461061,Package Returned,21/11/2025,Blank,Blank,Standard,483,0,-69,93000,PayLater,Lazada
+1062987772264332,Completed,21/11/2025,Blank,Blank,Standard,655.5,0,-34.5,10150,Credit Card,Lazada
+1055131429563309,Completed,21/11/2025,Blank,Blank,Standard,607.3,0,-42.7,10160,PayLater,Lazada
+1055127879036096,Completed,21/11/2025,Blank,Blank,Standard,1159.1,0,-28.9,80170,COD,Lazada
+1062783739108538,Completed,20/11/2025,Blank,Blank,Standard,527.8,0,-69,10160,Credit Card,Lazada
+1062769987208538,Completed,20/11/2025,Blank,Blank,Standard,655.5,0,-34.5,10160,Credit Card,Lazada
+1054875009962955,Completed,20/11/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,11000,Bank Transfer,Lazada
+1054861463578040,Completed,19/11/2025,Blank,Blank,Standard,632.75,0,-14.75,13190,E-Wallet,Lazada
+1054861463578040,Completed,19/11/2025,Blank,Blank,Standard,632.75,0,-14.75,13190,E-Wallet,Lazada
+1054861615978040,Cancelled,19/11/2025,Blank,Blank,Standard,650.6,0,-39.4,13190,Bank Transfer,Lazada
+1062582182725578,Completed,19/11/2025,Blank,Blank,1 กล่อง,346.5,0,-19.5,12130,Bank Transfer,Lazada
+1062508528457398,Completed,19/11/2025,Blank,Blank,2 กล่อง,731.4,0,-28.6,26000,Bank Transfer,Lazada
+1062317946882028,Completed,18/11/2025,Blank,Blank,Standard,581.4,0,-25.8,16110,Bank Transfer,Lazada
+1054533220400522,Completed,18/11/2025,Blank,Blank,Standard,605.5,0,-84.5,73210,Credit Card,Lazada
+1062185503738236,Completed,17/11/2025,Blank,Blank,2 กล่อง,527.95,0,-76,32220,PayLater,Lazada
+1062155133480351,Completed,17/11/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,13160,COD,Lazada
+1054348671756052,Completed,17/11/2025,Blank,Blank,3 กล่อง,1130,0,0,10310,Bank Transfer,Lazada
+1054317209024086,Completed,17/11/2025,Blank,Blank,Standard,233,0,-119,10220,COD,Lazada
+1054311612464827,Completed,17/11/2025,Blank,Blank,Standard,618.2,0,-71.8,83120,COD,Lazada
+1062067743242214,Completed,17/11/2025,Blank,Blank,Standard,609.2,0,-80.8,10270,E-Wallet,Lazada
+1062035345878647,Completed,17/11/2025,Blank,Blank,Standard,630.5,0,-59.5,73220,Credit Card,Lazada
+1062035345878647,Completed,17/11/2025,Blank,Blank,Standard,630.5,0,-59.5,73220,Credit Card,Lazada
+1061910960922458,Completed,16/11/2025,Blank,Blank,Standard,126.75,0,-16.9,73120,COD,Lazada
+1061877305977832,Completed,16/11/2025,Blank,Blank,Standard,529,0,-119,48160,Bank Transfer,Lazada
+1054085844130983,Completed,16/11/2025,Blank,Blank,Standard,151.55,0.5,-7.95,51140,Bank Transfer,Lazada
+1061795116353300,Completed,16/11/2025,Blank,Blank,Standard,630.5,0,-59.5,10120,Credit Card,Lazada
+1061795116353300,Completed,16/11/2025,Blank,Blank,Standard,630.5,0,-59.5,10120,Credit Card,Lazada
+1054006807400214,Completed,16/11/2025,Blank,Blank,Standard,119.25,0,-15.9,10400,COD,Lazada
+1061767777017056,Completed,16/11/2025,Blank,Blank,Standard,151.05,0,-7.95,67120,COD,Lazada
+1061750398271220,Completed,16/11/2025,Blank,Blank,Standard,1172.5,0,-117.5,34130,COD,Lazada
+1061619940988905,Cancelled,15/11/2025,Blank,Blank,Standard,614,0,-76,10800,COD,Lazada
+1061594909516770,Completed,15/11/2025,Blank,Blank,2 กล่อง,634,0,-76,13160,PayLater,Lazada
+1061584715896482,Completed,15/11/2025,Blank,Blank,Standard,665,0,-25,71120,COD,Lazada
+1061584715896482,Completed,15/11/2025,Blank,Blank,Standard,665,0,-25,71120,COD,Lazada
+1053653812393089,Completed,14/11/2025,Blank,Blank,Standard,605.5,0,-84.5,41000,COD,Lazada
+1053643267396983,Completed,14/11/2025,Blank,Blank,1 กล่อง,351.5,17.45,-19.5,10170,Credit Card,Lazada
+1061439913240158,Completed,14/11/2025,Blank,Blank,Standard,632.8,0,-57.2,10900,COD,Lazada
+1053630609587678,Completed,14/11/2025,Blank,Blank,Standard,505.5,0,-84.5,72000,COD,Lazada
+1061149741333042,Completed,13/11/2025,Blank,Blank,Standard,96.73,0,-16.9,86190,Bank Transfer,Lazada
+1061149741333042,Completed,13/11/2025,Blank,Blank,Standard,96.73,0,-16.9,86190,Bank Transfer,Lazada
+1061149741333042,Completed,13/11/2025,Blank,Blank,Standard,96.74,0,-16.9,86190,Bank Transfer,Lazada
+1061152520430216,Completed,13/11/2025,Blank,Blank,Standard,1032.5,0,-117.5,30370,PayLater,Lazada
+1053268481673919,Completed,13/11/2025,Blank,Blank,Standard,116.75,0,-16.9,10280,Credit Card,Lazada
+1053256422720347,Completed,13/11/2025,Blank,Blank,Standard,606.2,0,-13.8,10270,Credit Card,Lazada
+1053192084932693,Completed,13/11/2025,Blank,Blank,Standard,403,0,-69,53110,Bank Transfer,Lazada
+1060924747438727,Completed,12/11/2025,Blank,Blank,Standard,405,0,-119,50130,COD,Lazada
+1060669912616396,Completed,12/11/2025,Blank,Blank,Standard,160.55,0,-8.45,10230,COD,Lazada
+1060419195404490,Completed,11/11/2025,Blank,Blank,Standard,629.3,0,-10.7,10210,PayLater,Lazada
+1060419195404490,Completed,11/11/2025,Blank,Blank,Standard,0,0,-99,10210,PayLater,Lazada
+1052669243204490,Completed,11/11/2025,Blank,Blank,Standard,553.8,0,-84.5,10210,PayLater,Lazada
+1052669243204490,Completed,11/11/2025,Blank,Blank,Standard,0,0,-99,10210,PayLater,Lazada
+1052599294099824,Completed,11/11/2025,Blank,Blank,Standard,433,0,-119,10260,Credit Card,Lazada
+1052599294099824,Completed,11/11/2025,Blank,Blank,Standard,0,0,-99,10260,Credit Card,Lazada
+1060374714636868,Completed,11/11/2025,Blank,Blank,Standard,525.5,0,-84.5,10240,Bank Transfer,Lazada
+1060374714636868,Completed,11/11/2025,Blank,Blank,Standard,0,0,-99,10240,Bank Transfer,Lazada
+1060106904686003,Completed,11/11/2025,Blank,Blank,Standard,1052.5,0,-117.5,10260,Credit Card,Lazada
+1060106904686003,Completed,11/11/2025,Blank,Blank,Standard,0,0,-99,10260,Credit Card,Lazada
+1052255667839801,Completed,11/11/2025,Blank,Blank,Standard,985.5,0,-104.5,50290,E-Wallet,Lazada
+1052255667839801,Completed,11/11/2025,Blank,Blank,Standard,0,0,-99,50290,E-Wallet,Lazada
+1052297201736868,Cancelled,11/11/2025,Blank,Blank,Standard,481.39,3.03,-119,10240,Bank Transfer,Lazada
+1052297201736868,Cancelled,11/11/2025,Blank,Blank,Standard,0,0,-99,10240,Bank Transfer,Lazada
+1059901925526970,Completed,10/11/2025,Blank,Blank,Standard,132.55,10,0,10400,Credit Card,Lazada
+1059885721433207,Cancelled,10/11/2025,Blank,Blank,Standard,342,0,-18,72240,Other,Lazada
+1059885721433207,Cancelled,10/11/2025,Blank,Blank,Standard,0,0,-99,72240,Other,Lazada
+1059449372713292,Completed,9/11/2025,Blank,Blank,Standard,945,0,-135,10220,Credit Card,Lazada
+1059155955400974,Completed,8/11/2025,Blank,Blank,Standard,141.75,0,-18.9,10520,COD,Lazada
+1051208644812638,Completed,7/11/2025,Blank,Blank,Standard,592.81,0,-69,20150,PayLater,Lazada
+1051208644812638,Completed,7/11/2025,Blank,Blank,Standard,467.69,0,-10.93,20150,PayLater,Lazada
+1051208644812638,Completed,7/11/2025,Blank,Blank,Standard,32.8,0,-0.77,20150,PayLater,Lazada
+1050944665134184,Completed,6/11/2025,Blank,Blank,Standard,699,29,-20,10150,COD,Lazada
+1050981606016770,Completed,6/11/2025,Blank,Blank,2 กล่อง,483.2,0,-76,13160,PayLater,Lazada
+1058247932034512,Cancelled,4/11/2025,Blank,Blank,Standard,895,0,-135,10310,COD,Lazada
+1050353224432693,Completed,3/11/2025,Blank,Blank,Standard,459,0,-69,53110,Bank Transfer,Lazada
+1050266295214401,Package Returned,3/11/2025,Blank,Blank,Standard,1128,38,0,50220,COD,Lazada
+1057897791234512,Cancelled,3/11/2025,Blank,Blank,Standard,433,0,-69,10310,COD,Lazada
+1057758195928058,Completed,2/11/2025,Blank,Blank,2 กล่อง,680,0,0,10230,Bank Transfer,Lazada
+1057720998475718,Completed,2/11/2025,Blank,Blank,Standard,1438,88,0,71240,Bank Transfer,Lazada
+1050046202256264,Completed,2/11/2025,Blank,Blank,3 กล่อง,1090,0,0,10210,Credit Card,Lazada
+1057610931639656,Completed,1/11/2025,Blank,Blank,Standard,316,0,-18,50200,PayLater,Lazada
+1057540980379690,Completed,1/11/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10240,E-Wallet,Lazada
+1049810029556052,Completed,1/11/2025,Blank,Blank,1 กล่อง,419,29,0,10310,Bank Transfer,Lazada
+1049617843945838,Completed,31/10/2025,Blank,Blank,2 กล่อง,751.05,21.75,-30.7,11000,Credit Card,Lazada
+1049617843945838,Completed,31/10/2025,Blank,Blank,Standard,0,0,-99,11000,Credit Card,Lazada
+1049491644744855,Completed,30/10/2025,Blank,Blank,1 กล่อง,351,0,-39,10310,PayLater,Lazada
+1057144333575863,Completed,30/10/2025,Blank,Blank,1 กล่อง,428,38,0,56130,COD,Lazada
+1049501813675863,Cancelled,30/10/2025,Blank,Blank,1 กล่อง,428,38,0,56130,Other,Lazada
+1057152507669368,Completed,30/10/2025,Blank,Blank,1 กล่อง,419,29,0,10100,Bank Transfer,Lazada
+1049449806118306,Completed,30/10/2025,Blank,Blank,1 กล่อง,340.5,0,-19.5,27000,Other,Lazada
+1049310618760302,Completed,30/10/2025,Blank,Blank,Standard,208.55,29,-9.45,10570,COD,Lazada
+1049285245360990,Package Returned,30/10/2025,Blank,Blank,Standard,141.75,0,-18.9,93110,COD,Lazada
+1056514375878880,Cancelled,28/10/2025,Blank,Blank,Standard,183,0,-6,40000,Bank Transfer,Lazada
+1048461093748388,Completed,27/10/2025,Blank,Blank,1 กล่อง,408.5,38,-19.5,71120,Credit Card,Lazada
+1056095916087006,Completed,26/10/2025,Blank,Blank,1 กล่อง,384.61,14.11,-19.5,12000,Bank Transfer,Lazada
+1048154836626049,Completed,25/10/2025,Blank,Blank,Standard,660,0,0,10280,Credit Card,Lazada
+1055439793659042,Completed,24/10/2025,Blank,Blank,Standard,141.75,0,-18.9,20131,Bank Transfer,Lazada
+1055137108062105,Completed,23/10/2025,Blank,Blank,Standard,383,0,-69,10240,Credit Card,Lazada
+1047470290862105,Completed,23/10/2025,Blank,Blank,Standard,383,0,-69,10240,Credit Card,Lazada
+1054770796828636,Completed,21/10/2025,Blank,Blank,Standard,655.5,0,-34.5,10210,COD,Lazada
+1054636984632693,Completed,20/10/2025,Blank,Blank,Standard,483,0,-69,53110,Bank Transfer,Lazada
+1054614724979389,Completed,20/10/2025,Blank,Blank,Standard,266,38,-36,90310,Other,Lazada
+1046916678887492,Completed,20/10/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,40150,COD,Lazada
+1054220784868353,Completed,18/10/2025,Blank,Blank,Standard,179.55,0,-9.45,12000,Bank Transfer,Lazada
+1054059365378821,Completed,18/10/2025,Blank,Blank,Standard,360,0,0,31000,COD,Lazada
+1054022377576433,Completed,17/10/2025,Blank,Blank,1 กล่อง,413.1,29,-5.9,10250,Bank Transfer,Lazada
+1046344889228935,Completed,17/10/2025,Blank,Blank,2 กล่อง,760,0,0,41230,Bank Transfer,Lazada
+1046344889228935,Completed,17/10/2025,Blank,Blank,2 กล่อง,760,0,0,41230,Bank Transfer,Lazada
+1053736559382689,Completed,16/10/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,10250,COD,Lazada
+1053731710436108,Completed,16/10/2025,Blank,Blank,Standard,1379,29,0,10270,Bank Transfer,Lazada
+1045956008295888,Completed,16/10/2025,Blank,Blank,3 กล่อง,1164.17,38,-3.3,83000,Bank Transfer,Lazada
+1045941413656895,Completed,15/10/2025,Blank,Blank,2 กล่อง,766.07,17.87,-11.8,10900,Credit Card,Lazada
+1053528369994578,Completed,15/10/2025,Blank,Blank,1 กล่อง,390,0,0,11130,Credit Card,Lazada
+1053055109613292,Completed,13/10/2025,Blank,Blank,Standard,399.65,0,-69,10220,Credit Card,Lazada
+1053034768484036,Completed,13/10/2025,Blank,Blank,2 กล่อง,789,29,0,10250,E-Wallet,Lazada
+1052976703424203,Completed,13/10/2025,Blank,Blank,3 กล่อง,1137.8,29,-21.2,10260,Credit Card,Lazada
+1052947756620347,Completed,13/10/2025,Blank,Blank,Standard,1340.3,0,-9.7,10270,Credit Card,Lazada
+1045295439052433,Completed,13/10/2025,Blank,Blank,1 กล่อง,419,29,0,10230,Bank Transfer,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.78,9.78,0,71240,Credit Card,Lazada
+1052623103675718,Completed,12/10/2025,Blank,Blank,Standard,44.76,9.76,0,71240,Credit Card,Lazada
+1052544927156518,Completed,11/10/2025,Blank,Blank,Standard,208,19,0,67120,COD,Lazada
+1052544927156518,Completed,11/10/2025,Blank,Blank,Standard,208,19,0,67120,COD,Lazada
+1052349710111579,Completed,11/10/2025,Blank,Blank,1 กล่อง,350,0,0,10120,Credit Card,Lazada
+1052316193022458,Completed,11/10/2025,Blank,Blank,Standard,141.75,0,-18.9,73120,COD,Lazada
+1044674479604559,Completed,10/10/2025,Blank,Blank,1 กล่อง,392.25,21.75,-19.5,10600,Credit Card,Lazada
+1044674479604559,Completed,10/10/2025,Blank,Blank,Standard,0,0,-99,10600,Credit Card,Lazada
+1044662219728516,Completed,10/10/2025,Blank,Blank,Standard,483,0,-69,14000,COD,Lazada
+1044662219728516,Completed,10/10/2025,Blank,Blank,Standard,0,0,-99,14000,COD,Lazada
+1044440298857757,Completed,10/10/2025,Blank,Blank,2 กล่อง,771,28.5,-17.5,43000,Credit Card,Lazada
+1044440298857757,Completed,10/10/2025,Blank,Blank,Standard,0,0,-99,43000,Credit Card,Lazada
+1051966560741019,Completed,10/10/2025,Blank,Blank,Standard,141.75,0,-18.9,90140,COD,Lazada
+1044087019933437,Completed,9/10/2025,Blank,Blank,Standard,484.5,0,-25.5,10220,COD,Lazada
+1044087019933437,Completed,9/10/2025,Blank,Blank,Standard,0,0,-99,10220,COD,Lazada
+1051590964775718,Completed,9/10/2025,Blank,Blank,Standard,756,66,0,71240,COD,Lazada
+1051590964775718,Completed,9/10/2025,Blank,Blank,Standard,0,0,-99,71240,COD,Lazada
+1043969618196040,Completed,9/10/2025,Blank,Blank,Standard,1358.5,28.5,-20,90110,COD,Lazada
+1043969618196040,Completed,9/10/2025,Blank,Blank,Standard,0,0,-99,90110,COD,Lazada
+1051541718642976,Completed,9/10/2025,Blank,Blank,1 กล่อง,331.5,0,-19.5,30000,E-Wallet,Lazada
+1051541718642976,Completed,9/10/2025,Blank,Blank,Standard,0,0,-99,30000,E-Wallet,Lazada
+1043880473774501,Completed,8/10/2025,Blank,Blank,1 กล่อง,418.5,28.5,0,90110,COD,Lazada
+1043880473774501,Completed,8/10/2025,Blank,Blank,Standard,0,0,-99,90110,COD,Lazada
+1043836271365420,Completed,8/10/2025,Blank,Blank,2 กล่อง,668.4,0,-26.6,50210,PayLater,Lazada
+1043836271365420,Completed,8/10/2025,Blank,Blank,Standard,0,0,-99,50210,PayLater,Lazada
+1043775053716396,Completed,8/10/2025,Blank,Blank,Standard,179.55,0,-9.45,10230,COD,Lazada
+1043592299520743,Completed,7/10/2025,Blank,Blank,Standard,1990,0,0,73210,COD,Lazada
+1043592299520743,Completed,7/10/2025,Blank,Blank,Standard,0,0,-99,73210,COD,Lazada
+1051025119216420,Completed,6/10/2025,Blank,Blank,1 กล่อง,409,29,0,10250,Other,Lazada
+1051022144664494,Completed,6/10/2025,Blank,Blank,1 กล่อง,400.1,29.6,-19.5,20130,Bank Transfer,Lazada
+1043318000833905,Completed,6/10/2025,Blank,Blank,2 กล่อง,677,0,-38,20110,PayLater,Lazada
+1043208896534512,Completed,5/10/2025,Blank,Blank,Standard,505.5,0,-69,10310,COD,Lazada
+1043208896534512,Completed,5/10/2025,Blank,Blank,Standard,505.5,0,-69,10310,COD,Lazada
+1043123636365420,Completed,5/10/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,50210,PayLater,Lazada
+1050657175122245,Completed,5/10/2025,Blank,Blank,Standard,810,0,-135,15000,Credit Card,Lazada
+1050607787861835,Completed,4/10/2025,Blank,Blank,Standard,1128,38,0,42210,COD,Lazada
+1042975064096801,Completed,4/10/2025,Blank,Blank,2 กล่อง,754.1,0,-5.9,10110,Credit Card,Lazada
+1050504550360076,Completed,4/10/2025,Blank,Blank,Standard,1026,0,0,57000,Bank Transfer,Lazada
+1042584044584427,Completed,2/10/2025,Blank,Blank,1 กล่อง,399.5,29,-19.5,10110,Credit Card,Lazada
+1042565896274957,Completed,2/10/2025,Blank,Blank,Standard,339.33,20.65,-18,11000,E-Wallet,Lazada
+1049938136380049,Completed,1/10/2025,Blank,Blank,Standard,1908.4,0,-55.6,73000,Bank Transfer,Lazada
+1042272629844727,Completed,1/10/2025,Blank,Blank,Standard,359,0,-1,10110,Bank Transfer,Lazada
+1049776584756413,Completed,1/10/2025,Blank,Blank,Standard,1034.55,0,-1,21140,PayLater,Lazada
+1049509777668429,Completed,30/9/2025,Blank,Blank,Standard,1128,38,0,30110,COD,Lazada
+1041896482068429,Cancelled,30/9/2025,Blank,Blank,Standard,1128,38,0,30110,Other,Lazada
+1049516345868429,Cancelled,30/9/2025,Blank,Blank,Standard,1128,38,0,30110,Other,Lazada
+1041459885581925,Completed,28/9/2025,Blank,Blank,1 กล่อง,370.5,0,-19.5,11140,Credit Card,Lazada
+1041378437574957,Completed,28/9/2025,Blank,Blank,Standard,181.37,11.82,-19.45,11000,E-Wallet,Lazada
+1041378437574957,Completed,28/9/2025,Blank,Blank,Standard,181.38,11.83,-19.45,11000,E-Wallet,Lazada
+1048421956871879,Completed,25/9/2025,Blank,Blank,1 กล่อง,392.2,29,-26.8,10100,COD,Lazada
+1048420522004435,Completed,25/9/2025,Blank,Blank,2 กล่อง,740,0,-20,43000,Credit Card,Lazada
+1040804401834163,Completed,25/9/2025,Blank,Blank,1 กล่อง,399,29,-20,10600,COD,Lazada
+1040736693629651,Completed,25/9/2025,Blank,Blank,1 กล่อง,408,38,-20,83000,Credit Card,Lazada
+1048045513939652,Completed,24/9/2025,Blank,Blank,1 กล่อง,370,0,-20,43000,COD,Lazada
+1047946184844037,Completed,23/9/2025,Blank,Blank,1 กล่อง,399,29,-20,10150,Credit Card,Lazada
+1047840511141019,Completed,23/9/2025,Blank,Blank,Standard,125.53,0,-38.9,90140,COD,Lazada
+1040226025929513,Completed,23/9/2025,Blank,Blank,Standard,159.55,0,-29.45,21180,COD,Lazada
+1039470670100195,Completed,19/9/2025,Blank,Blank,Standard,159.55,0,-29.45,70120,COD,Lazada
+1046795192826091,Completed,18/9/2025,Blank,Blank,Standard,322,0,-38,20130,Credit Card,Lazada
+1045853157053209,Completed,15/9/2025,Blank,Blank,Standard,194.87,13.12,-7.25,10110,COD,Lazada
+1045853157053209,Completed,15/9/2025,Blank,Blank,Standard,194.87,13.12,-7.25,10110,COD,Lazada
+1045853157053209,Completed,15/9/2025,Blank,Blank,Standard,183.13,1.38,-7.25,10110,COD,Lazada
+1045853157053209,Completed,15/9/2025,Blank,Blank,Standard,183.13,1.38,-7.25,10110,COD,Lazada
+1037226487620038,Completed,11/9/2025,Blank,Blank,Standard,91.05,0,-27.95,10600,Bank Transfer,Lazada
+1037149090360302,Completed,10/9/2025,Blank,Blank,Standard,160.05,29,-27.95,10570,COD,Lazada
+1037036688317056,Completed,10/9/2025,Blank,Blank,Standard,137.35,0,-11.65,67120,COD,Lazada
+1037036688317056,Completed,10/9/2025,Blank,Blank,Standard,137.35,0,-11.65,67120,COD,Lazada
+1035717613678821,Completed,7/9/2025,Blank,Blank,Standard,360,0,0,31000,COD,Lazada
+1042218510422458,Completed,3/9/2025,Blank,Blank,Standard,179.55,0,-9.45,73120,COD,Lazada
+1034628235092398,Completed,3/9/2025,Blank,Blank,Standard,359.4,0,-0.6,67000,COD,Lazada
+1041802139614510,Completed,2/9/2025,Blank,Blank,Standard,307,0,-18,71130,Bank Transfer,Lazada
+1033775841550862,Completed,30/8/2025,Blank,Blank,Standard,179.8,0,-9.2,10260,Other,Lazada
+1033621058556518,Completed,30/8/2025,Blank,Blank,Standard,218.1,38,-8.9,67120,COD,Lazada
+1032031089612436,Completed,24/8/2025,Blank,Blank,Standard,165.67,0,0,36210,COD,Lazada
+1032031089612436,Completed,24/8/2025,Blank,Blank,Standard,165.66,0,0,36210,COD,Lazada
+1032031089612436,Completed,24/8/2025,Blank,Blank,Standard,165.67,0,0,36210,COD,Lazada
+1032030664872387,Completed,24/8/2025,Blank,Blank,Standard,179.55,0,-9.45,24000,E-Wallet,Lazada
+1031959858429513,Completed,24/8/2025,Blank,Blank,Standard,189,0,0,21180,COD,Lazada
+1038750155256518,Completed,21/8/2025,Blank,Blank,Standard,217.55,38,-9.45,67120,COD,Lazada
+1030451050033042,Completed,17/8/2025,Blank,Blank,Standard,169.48,0,-18.9,86190,Bank Transfer,Lazada
+1029875809453304,Completed,15/8/2025,Blank,Blank,Standard,42.33,7.33,0,64110,COD,Lazada
+1029875809453304,Completed,15/8/2025,Blank,Blank,Standard,42.34,7.34,0,64110,COD,Lazada
+1029875809453304,Completed,15/8/2025,Blank,Blank,Standard,42.32,7.32,0,64110,COD,Lazada
+1029875809453304,Completed,15/8/2025,Blank,Blank,Standard,190.54,1.54,0,64110,COD,Lazada
+1029875809453304,Completed,15/8/2025,Blank,Blank,Standard,200,11,0,64110,COD,Lazada
+1028313056231894,Completed,9/8/2025,Blank,Blank,Standard,143.1,0,-15.9,10120,E-Wallet,Lazada
+1035656986268222,Package Returned,9/8/2025,Blank,Blank,Standard,168,38,0,30120,COD,Lazada
+1028120883043424,Completed,8/8/2025,Blank,Blank,Standard,357.5,15.5,-18,74000,Bank Transfer,Lazada
+1028059841096495,Completed,8/8/2025,Blank,Blank,Standard,132.05,0,-6.95,80190,Credit Card,Lazada
+1035100360544727,Completed,8/8/2025,Blank,Blank,Standard,128,0,-2,10110,Bank Transfer,Lazada
+1027285807422458,Completed,6/8/2025,Blank,Blank,Standard,179.55,0,-9.45,73120,COD,Lazada
+1026918419778821,Completed,5/8/2025,Blank,Blank,Standard,189,0,0,31000,COD,Lazada
+1026363039333272,Completed,3/8/2025,Blank,Blank,Standard,123.91,0,-18.9,10250,PayLater,Lazada
+1026363039333272,Completed,3/8/2025,Blank,Blank,Standard,123.92,0,-18.9,10250,PayLater,Lazada
+1026363039333272,Completed,3/8/2025,Blank,Blank,Standard,157.53,0,-9.45,10250,PayLater,Lazada
+1026363209433272,Cancelled,3/8/2025,Blank,Blank,Standard,164.3,0,-9.45,10250,Other,Lazada
+1026316014604130,Completed,2/8/2025,Blank,Blank,Standard,156.07,0,-9.45,10260,COD,Lazada
+1026316014604130,Completed,2/8/2025,Blank,Blank,Standard,156.08,0,-9.45,10260,COD,Lazada
