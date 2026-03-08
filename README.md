@@ -1,1 +1,1 @@
-# ecommerce-sales-analysis
+# ecommerce-sales-pipeline
