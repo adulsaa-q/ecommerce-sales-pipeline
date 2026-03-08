@@ -76,4 +76,23 @@ to dimension tables (Date, Platform, Time, PostalCode)
 
 ## 📸 Dashboard Preview
 
-![Overview](data-model-overview.pdf)
+### Overview
+![Overview](images/data-model-overview-1.png)
+
+### Mid Month
+![Mid Month](images/data-model-overview-2.png)
+
+### Health
+![Health](images/data-model-overview-3.png)
+
+### Details
+![Details](images/data-model-overview-4.png)
+
+### Hourly Performance
+![Hourly](images/data-model-overview-5.png)
+
+### Weekend vs Weekday
+![Weekend](images/data-model-overview-6.png)
+
+### Data Model
+![Data Model](images/data-model-overview-7.png)
