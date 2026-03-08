@@ -61,7 +61,7 @@ Power BI Dashboard (4 pages)
 Star schema with fact tables (Orders, Ads) connected 
 to dimension tables (Date, Platform, Time, PostalCode)
 
-![Data Model](semantic-model.png)
+![Data Model](png)
 
 ---
 
@@ -76,4 +76,4 @@ to dimension tables (Date, Platform, Time, PostalCode)
 
 ## 📸 Dashboard Preview
 
-![Overview](dashboard-overview.png)
+![Overview](data-model-overview.pdf)
