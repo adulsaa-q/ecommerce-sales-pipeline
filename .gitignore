@@ -1,0 +1,9 @@
+# Power BI
+*.pbix
+
+# Excel / Office temp files
+~$*
+
+# OS junk
+.DS_Store
+Thumbs.db
