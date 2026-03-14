@@ -18,6 +18,20 @@ replacing manual Excel reporting.
 * Supported budget decisions across Shopee & Lazada campaigns
 
 ---
+## 📁 Project Structure
+```
+ecommerce-sales-pipeline/
+├── power_query/        # M code for each data source
+│   ├── pq_ads_sp.m
+│   ├── pq_ads_lz.m
+│   ├── pq_order_sp.m
+│   ├── pq_order_lz.m
+│   └── pq_cpas.m
+├── csv/                # Sample source data
+├── images/             # Dashboard screenshots
+└── README.md
+```
+---
 
 ## 🗂️ Data Sources
 
