@@ -267,6 +267,18 @@ to dimension tables (Date, Platform, Time, PostalCode)
 
 ---
 
+## 📐 Key DAX Design Decisions
+- MoM Growth uses same-day comparison for current month 
+  to avoid misleading % from incomplete data
+- Campaign Revenue uses proxy method (platform order % × ERP) 
+  due to no shared key between campaign calendar and ERP
+- Forecast uses Weighted Moving Average (recency bias) 
+  instead of simple average
+
+> Full DAX measures → [dax/measures.md](dax/measures.md)
+
+---
+
 ## 📸 Dashboard Preview
 
 ### Overview
