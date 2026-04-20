@@ -174,7 +174,7 @@ RETURN TotalERP_LM * Pct
 
 ## 6. Forecast
 
-### Weighted Moving Average 3 เดือน (แนะนำ)
+### Weighted Moving Average 3 เดือน
 
 เดือนล่าสุดมีน้ำหนักมากกว่า — เหมาะกับ trend ที่กำลังเปลี่ยน
 
