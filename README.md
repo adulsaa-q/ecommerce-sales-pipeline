@@ -4,6 +4,31 @@ An end-to-end data pipeline, Power Query (M) transformation layer, and Power BI 
 
 ---
 
+## 📸 Dashboard Previews
+
+### 1. Executive Sales Overview
+![Executive Sales Overview](images/data-model-overview-1.png)
+
+### 2. Mid-Month & Campaign Performance
+![Mid-Month Campaign Tracking](images/data-model-overview-2.png)
+
+### 3. Marketing Health & ROAS
+![Marketing Health & ROAS](images/data-model-overview-3.png)
+
+### 4. SKU & Platform Details
+![SKU & Platform Breakdown](images/data-model-overview-4.png)
+
+### 5. Hourly Order Volume Heatmap
+![Hourly Order Volume](images/data-model-overview-5.png)
+
+### 6. Weekend vs Weekday Trend Analysis
+![Weekend vs Weekday Analysis](images/data-model-overview-6.png)
+
+### 7. Power BI Tabular Data Model
+![Data Model Architecture](images/data-model-overview-7.png)
+
+---
+
 ## 🎯 The Problem
 
 Managing e-commerce sales across multiple platforms in Southeast Asia (Shopee and Lazada) typically involves dealing with incompatible export formats:
@@ -78,6 +103,7 @@ ecommerce-sales-pipeline/
 │   └── pq_cpas.pq          # Collaborative Performance Ads (CPAS) parsing
 ├── dax/
 │   └── measures.md         # Documented DAX calculation library
+├── images/                 # Dashboard visual previews
 ├── csv/                    # Synthetic sample dataset (anonymized schemas)
 │   ├── Order_Sp.csv
 │   ├── Order_Lz.csv
