@@ -4,7 +4,7 @@ An end-to-end data pipeline, Power Query (M) transformation layer, and Power BI 
 
 ---
 
-## 📸 Dashboard Previews
+## <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Dashboard Previews
 
 ### 1. Executive Sales Overview
 ![Executive Sales Overview](images/data-model-overview-1.png)
@@ -29,7 +29,7 @@ An end-to-end data pipeline, Power Query (M) transformation layer, and Power BI 
 
 ---
 
-## 🎯 The Problem
+## <img src="https://api.iconify.design/lucide:target.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;The Problem & Business Context
 
 Managing e-commerce sales across multiple platforms in Southeast Asia (Shopee and Lazada) typically involves dealing with incompatible export formats:
 
@@ -41,7 +41,7 @@ This project implements an automated pipeline to clean, harmonize, and model mul
 
 ---
 
-## 🏗️ Architecture & Data Flow
+## <img src="https://api.iconify.design/lucide:network.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Architecture & Data Flow
 
 ```mermaid
 flowchart TD
@@ -91,7 +91,7 @@ flowchart TD
 
 ---
 
-## 📁 Repository Structure
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Repository Structure
 
 ```
 ecommerce-sales-pipeline/
@@ -114,7 +114,7 @@ ecommerce-sales-pipeline/
 
 ---
 
-## ⚙️ Power Query (M) Highlights
+## <img src="https://api.iconify.design/lucide:code-2.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Power Query (M) Highlights
 
 ### 1. Extracting Dates from Non-Standard Header Rows
 Shopee exports embed report creation timestamps inside `Row 5` rather than standard tabular columns. The M function below parses this metadata dynamically before promoting headers:
@@ -166,7 +166,7 @@ Automatically tags transactions with Southeast Asian e-commerce campaign cadence
 
 ---
 
-## 📐 Core DAX Engineering
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Core DAX Engineering
 
 ### Smart MoM Comparison (MTD Elapsed vs Full-Month Logic)
 Eliminates artificial negative growth during ongoing months by comparing the exact elapsed days of the current month against the identical day window in the previous month:
@@ -212,7 +212,7 @@ DIVIDE([Gross Revenue], [Total Ad Spend], 0)
 
 ---
 
-## 🧪 Sample Data & Reproducibility
+## <img src="https://api.iconify.design/lucide:database.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Sample Data & Reproducibility
 
 This repository includes a synthetic dataset in `csv/` generated with realistic product schemas, order flows, price points, and marketing spend distributions.
 

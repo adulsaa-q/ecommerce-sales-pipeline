@@ -1,10 +1,10 @@
-# 📐 DAX Measures — Multi-Channel E-Commerce Analytics
+# <img src="https://api.iconify.design/lucide:calculator.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;DAX Measures — Multi-Channel E-Commerce Analytics
 
 Power BI calculation logic and analytical measures for unified Shopee & Lazada performance reporting.
 
 ---
 
-## 📁 Measure Groups
+## <img src="https://api.iconify.design/lucide:folder.svg?color=%23F3F4F6" width="20" valign="middle" /> &nbsp;Measure Groups
 
 | Group | Purpose |
 |---|---|
