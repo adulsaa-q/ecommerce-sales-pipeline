@@ -1,0 +1,151 @@
+﻿Order ID,Order Status,Order Date,Product ID,Product Name,Variation,Quantity,Sales,Net Payout,Commission Fee,Transaction Fee,Service Fee,Shipping Paid by Buyer,Seller Voucher Cost,Province,Postcode,Payment Method,Installment Plan,Fee Percentage,Platform,Campaign Type Logic
+SP202501150001,ที่ต้องจัดส่ง,2025-01-15 17:56:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,2,900.0,760.0,45.0,27.0,18.0,45.0,50.0,Chonburi,20000,Mobile Banking,-,10%,Shopee,Mid-Month
+SP202502050002,สำเร็จ,2025-02-05 13:45:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,3,3870.0,3483.0,193.5,116.1,77.4,45.0,0.0,Bangkok,10110,Credit Card,-,10%,Shopee,Normal Day
+SP202504180003,สำเร็จ,2025-04-18 11:28:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,252.0,14.0,8.4,5.6,45.0,0.0,Nakhon Ratchasima,30000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202506130004,สำเร็จ,2025-06-13 19:45:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Normal Day
+SP202502160005,สำเร็จ,2025-02-16 13:36:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Phuket,83000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202506060006,สำเร็จ,2025-06-06 11:31:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,3,3870.0,3433.0,193.5,116.1,77.4,45.0,50.0,Nakhon Ratchasima,30000,Cash on Delivery,-,10%,Shopee,Mega Day
+SP202503020007,สำเร็จ,2025-03-02 12:20:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,3,2370.0,2033.0,118.5,71.1,47.4,45.0,100.0,Chonburi,20000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202505240008,สำเร็จ,2025-05-24 09:07:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,2,1580.0,1322.0,79.0,47.4,31.6,45.0,100.0,Phuket,83000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505060009,สำเร็จ,2025-05-06 13:48:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,252.0,14.0,8.4,5.6,45.0,0.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505190010,สำเร็จ,2025-05-19 20:40:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1165.0,67.5,40.5,27.0,45.0,50.0,Khon Kaen,40000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505040011,สำเร็จ,2025-05-04 18:47:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,2,1580.0,1422.0,79.0,47.4,31.6,45.0,0.0,Chiang Mai,50000,Credit Card,-,10%,Shopee,Normal Day
+SP202506140012,สำเร็จ,2025-06-14 18:32:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,611.0,39.5,23.7,15.8,45.0,100.0,Nonthaburi,11000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505040013,สำเร็จ,2025-05-04 14:49:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,458.0,31.0,18.6,12.4,45.0,100.0,Chonburi,20000,Credit Card,-,10%,Shopee,Normal Day
+SP202502160014,สำเร็จ,2025-02-16 15:14:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Chiang Mai,50000,Credit Card,-,10%,Shopee,Normal Day
+SP202501180015,สำเร็จ,2025-01-18 22:57:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,3,840.0,706.0,42.0,25.2,16.8,45.0,50.0,Chonburi,20000,Credit Card,-,10%,Shopee,Normal Day
+SP202505260016,สำเร็จ,2025-05-26 09:06:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Nakhon Ratchasima,30000,ShopeePay,-,10%,Shopee,Payday
+SP202504090017,สำเร็จ,2025-04-09 08:04:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,405.0,22.5,13.5,9.0,45.0,0.0,Chiang Mai,50000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505180018,สำเร็จ,2025-05-18 22:38:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,558.0,31.0,18.6,12.4,45.0,0.0,Khon Kaen,40000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505220019,สำเร็จ,2025-05-22 18:11:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,2,1780.0,1602.0,89.0,53.4,35.6,45.0,0.0,Bangkok,10110,QR PromptPay,-,10%,Shopee,Normal Day
+SP202503090020,สำเร็จ,2025-03-09 16:02:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,3,2370.0,2033.0,118.5,71.1,47.4,45.0,100.0,Bangkok,10110,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504140021,ที่ต้องจัดส่ง,2025-04-14 12:14:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,458.0,31.0,18.6,12.4,45.0,100.0,Khon Kaen,40000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202504170022,การจัดส่ง,2025-04-17 21:43:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,202.0,14.0,8.4,5.6,45.0,50.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202501150023,สำเร็จ,2025-01-15 15:38:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,2,2580.0,2322.0,129.0,77.4,51.6,45.0,0.0,Nakhon Ratchasima,30000,Cash on Delivery,-,10%,Shopee,Mid-Month
+SP202506250024,สำเร็จ,2025-06-25 16:40:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,2,1240.0,1066.0,62.0,37.2,24.8,45.0,50.0,Chonburi,20000,Cash on Delivery,-,10%,Shopee,Payday
+SP202501300025,สำเร็จ,2025-01-30 22:40:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,458.0,31.0,18.6,12.4,45.0,100.0,Nonthaburi,11000,Credit Card,-,10%,Shopee,Payday
+SP202505170026,สำเร็จ,2025-05-17 09:38:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,2,1580.0,1422.0,79.0,47.4,31.6,45.0,0.0,Khon Kaen,40000,ShopeePay,-,10%,Shopee,Normal Day
+SP202503020027,สำเร็จ,2025-03-02 20:58:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,2,900.0,760.0,45.0,27.0,18.0,45.0,50.0,Nonthaburi,11000,Credit Card,-,10%,Shopee,Normal Day
+SP202502110028,สำเร็จ,2025-02-11 22:16:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,3,2370.0,2033.0,118.5,71.1,47.4,45.0,100.0,Phuket,83000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202501040029,สำเร็จ,2025-01-04 19:02:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Bangkok,10110,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505210030,สำเร็จ,2025-05-21 13:54:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,355.0,22.5,13.5,9.0,45.0,50.0,Songkhla,90000,Credit Card,-,10%,Shopee,Normal Day
+SP202506220031,สำเร็จ,2025-06-22 15:57:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1061.0,64.5,38.7,25.8,45.0,100.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202503160032,สำเร็จ,2025-03-16 09:51:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Nonthaburi,11000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202501190033,สำเร็จ,2025-01-19 20:29:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,3,1860.0,1624.0,93.0,55.8,37.2,45.0,50.0,Nakhon Ratchasima,30000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202503230034,สำเร็จ,2025-03-23 17:55:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,3,2370.0,2033.0,118.5,71.1,47.4,45.0,100.0,Khon Kaen,40000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202503180035,สำเร็จ,2025-03-18 13:52:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,2,900.0,810.0,45.0,27.0,18.0,45.0,0.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202506150036,สำเร็จ,2025-06-15 14:01:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,3,3870.0,3483.0,193.5,116.1,77.4,45.0,0.0,Songkhla,90000,Credit Card,-,10%,Shopee,Mid-Month
+SP202503280037,สำเร็จ,2025-03-28 22:43:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,3,2370.0,2133.0,118.5,71.1,47.4,45.0,0.0,Khon Kaen,40000,QR PromptPay,-,10%,Shopee,Payday
+SP202502220038,สำเร็จ,2025-02-22 22:47:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Bangkok,10110,Mobile Banking,-,10%,Shopee,Normal Day
+SP202501090039,ที่ต้องจัดส่ง,2025-01-09 08:47:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,252.0,14.0,8.4,5.6,45.0,0.0,Bangkok,10110,Credit Card,-,10%,Shopee,Normal Day
+SP202504170040,สำเร็จ,2025-04-17 20:23:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,2,560.0,504.0,28.0,16.8,11.2,45.0,0.0,Chiang Mai,50000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202501060041,สำเร็จ,2025-01-06 17:42:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Nakhon Ratchasima,30000,Credit Card,-,10%,Shopee,Normal Day
+SP202503040042,สำเร็จ,2025-03-04 15:05:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2303.0,133.5,80.1,53.4,45.0,100.0,Bangkok,10110,QR PromptPay,-,10%,Shopee,Normal Day
+SP202504080043,สำเร็จ,2025-04-08 18:41:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,611.0,39.5,23.7,15.8,45.0,100.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202506170044,สำเร็จ,2025-06-17 13:38:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,2,1580.0,1372.0,79.0,47.4,31.6,45.0,50.0,Nakhon Ratchasima,30000,Credit Card,-,10%,Shopee,Normal Day
+SP202506180045,สำเร็จ,2025-06-18 12:19:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Chonburi,20000,ShopeePay,-,10%,Shopee,Normal Day
+SP202503310046,สำเร็จ,2025-03-31 13:34:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,202.0,14.0,8.4,5.6,45.0,50.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Payday
+SP202502010047,สำเร็จ,2025-02-01 22:40:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,2,900.0,810.0,45.0,27.0,18.0,45.0,0.0,Songkhla,90000,Credit Card,-,10%,Shopee,Normal Day
+SP202505070048,การจัดส่ง,2025-05-07 20:14:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Chonburi,20000,Credit Card,-,10%,Shopee,Normal Day
+SP202505160049,สำเร็จ,2025-05-16 15:10:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Nakhon Ratchasima,30000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202504250050,สำเร็จ,2025-04-25 20:14:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1165.0,67.5,40.5,27.0,45.0,50.0,Phuket,83000,Mobile Banking,-,10%,Shopee,Payday
+SP202506100051,ที่ต้องจัดส่ง,2025-06-10 18:25:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,508.0,31.0,18.6,12.4,45.0,50.0,Khon Kaen,40000,ShopeePay,-,10%,Shopee,Normal Day
+SP202504090052,สำเร็จ,2025-04-09 17:41:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,2,1780.0,1602.0,89.0,53.4,35.6,45.0,0.0,Khon Kaen,40000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505030053,ที่ต้องจัดส่ง,2025-05-03 10:33:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,3,840.0,656.0,42.0,25.2,16.8,45.0,100.0,Chonburi,20000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202503020054,สำเร็จ,2025-03-02 12:52:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2353.0,133.5,80.1,53.4,45.0,50.0,Bangkok,10110,Mobile Banking,-,10%,Shopee,Normal Day
+SP202501170055,สำเร็จ,2025-01-17 18:37:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,2,900.0,710.0,45.0,27.0,18.0,45.0,100.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Normal Day
+SP202502230056,สำเร็จ,2025-02-23 11:23:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,2,2580.0,2322.0,129.0,77.4,51.6,45.0,0.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202501290057,สำเร็จ,2025-01-29 15:09:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,252.0,14.0,8.4,5.6,45.0,0.0,Chiang Mai,50000,Cash on Delivery,-,10%,Shopee,Payday
+SP202504190058,สำเร็จ,2025-04-19 14:12:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Khon Kaen,40000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202506290059,การจัดส่ง,2025-06-29 13:12:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,3,1860.0,1674.0,93.0,55.8,37.2,45.0,0.0,Songkhla,90000,ShopeePay,-,10%,Shopee,Payday
+SP202501010060,ที่ต้องจัดส่ง,2025-01-01 21:25:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Mega Day
+SP202501060061,ยกเลิก,2025-01-06 18:16:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1215.0,67.5,40.5,27.0,45.0,0.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202503160062,การจัดส่ง,2025-03-16 14:18:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1215.0,67.5,40.5,27.0,45.0,0.0,Nakhon Ratchasima,30000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202503280063,สำเร็จ,2025-03-28 16:06:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Payday
+SP202501020064,สำเร็จ,2025-01-02 16:55:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Nonthaburi,11000,ShopeePay,-,10%,Shopee,Normal Day
+SP202501290065,ที่ต้องจัดส่ง,2025-01-29 22:07:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,3,3870.0,3433.0,193.5,116.1,77.4,45.0,50.0,Nonthaburi,11000,ShopeePay,-,10%,Shopee,Payday
+SP202502280066,สำเร็จ,2025-02-28 14:05:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,2,1240.0,1116.0,62.0,37.2,24.8,45.0,0.0,Nonthaburi,11000,Cash on Delivery,-,10%,Shopee,Payday
+SP202505230067,สำเร็จ,2025-05-23 14:04:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,2,560.0,504.0,28.0,16.8,11.2,45.0,0.0,Nonthaburi,11000,ShopeePay,-,10%,Shopee,Normal Day
+SP202506060068,ที่ต้องจัดส่ง,2025-06-06 22:59:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Songkhla,90000,Credit Card,-,10%,Shopee,Mega Day
+SP202503240069,สำเร็จ,2025-03-24 14:22:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Normal Day
+SP202506060070,สำเร็จ,2025-06-06 19:33:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,701.0,44.5,26.7,17.8,45.0,100.0,Songkhla,90000,ShopeePay,-,10%,Shopee,Mega Day
+SP202506290071,สำเร็จ,2025-06-29 21:04:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,2,1580.0,1422.0,79.0,47.4,31.6,45.0,0.0,Khon Kaen,40000,Mobile Banking,-,10%,Shopee,Payday
+SP202505310072,สำเร็จ,2025-05-31 10:07:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,2,560.0,504.0,28.0,16.8,11.2,45.0,0.0,Phuket,83000,QR PromptPay,-,10%,Shopee,Payday
+SP202502030073,สำเร็จ,2025-02-03 15:55:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202506190074,ยกเลิก,2025-06-19 08:44:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Phuket,83000,ShopeePay,-,10%,Shopee,Normal Day
+SP202503130075,สำเร็จ,2025-03-13 13:01:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,3,1860.0,1624.0,93.0,55.8,37.2,45.0,50.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202504170076,ที่ต้องจัดส่ง,2025-04-17 18:00:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,2,2580.0,2322.0,129.0,77.4,51.6,45.0,0.0,Nakhon Ratchasima,30000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202506110077,สำเร็จ,2025-06-11 19:05:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,558.0,31.0,18.6,12.4,45.0,0.0,Khon Kaen,40000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202502030078,สำเร็จ,2025-02-03 21:59:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,751.0,44.5,26.7,17.8,45.0,50.0,Chonburi,20000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202503200079,ยกเลิก,2025-03-20 10:16:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2403.0,133.5,80.1,53.4,45.0,0.0,Nonthaburi,11000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202504240080,การจัดส่ง,2025-04-24 13:44:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,3,3870.0,3483.0,193.5,116.1,77.4,45.0,0.0,Nonthaburi,11000,ShopeePay,-,10%,Shopee,Normal Day
+SP202502200081,สำเร็จ,2025-02-20 09:49:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,2,2580.0,2322.0,129.0,77.4,51.6,45.0,0.0,Nonthaburi,11000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202504250082,สำเร็จ,2025-04-25 17:00:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,2,2580.0,2272.0,129.0,77.4,51.6,45.0,50.0,Bangkok,10110,Mobile Banking,-,10%,Shopee,Payday
+SP202503280083,สำเร็จ,2025-03-28 14:07:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,3,840.0,756.0,42.0,25.2,16.8,45.0,0.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Payday
+SP202503210084,สำเร็จ,2025-03-21 15:47:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,355.0,22.5,13.5,9.0,45.0,50.0,Phuket,83000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202501240085,สำเร็จ,2025-01-24 09:41:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Chiang Mai,50000,Credit Card,-,10%,Shopee,Normal Day
+SP202501220086,สำเร็จ,2025-01-22 13:04:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Chiang Mai,50000,ShopeePay,-,10%,Shopee,Normal Day
+SP202506040087,สำเร็จ,2025-06-04 12:17:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,405.0,22.5,13.5,9.0,45.0,0.0,Phuket,83000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202502210088,สำเร็จ,2025-02-21 19:41:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Phuket,83000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202504090089,สำเร็จ,2025-04-09 14:10:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,2,1780.0,1502.0,89.0,53.4,35.6,45.0,100.0,Nonthaburi,11000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202501050090,สำเร็จ,2025-01-05 15:45:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1061.0,64.5,38.7,25.8,45.0,100.0,Nonthaburi,11000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505250091,สำเร็จ,2025-05-25 22:03:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,508.0,31.0,18.6,12.4,45.0,50.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Payday
+SP202502050092,ที่ต้องจัดส่ง,2025-02-05 13:45:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Bangkok,10110,QR PromptPay,-,10%,Shopee,Normal Day
+SP202503030093,สำเร็จ,2025-03-03 13:50:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,611.0,39.5,23.7,15.8,45.0,100.0,Chonburi,20000,Mobile Banking,-,10%,Shopee,Mega Day
+SP202505050094,สำเร็จ,2025-05-05 10:44:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,2,1780.0,1602.0,89.0,53.4,35.6,45.0,0.0,Phuket,83000,Cash on Delivery,-,10%,Shopee,Mega Day
+SP202501150095,สำเร็จ,2025-01-15 13:59:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,508.0,31.0,18.6,12.4,45.0,50.0,Songkhla,90000,Credit Card,-,10%,Shopee,Mid-Month
+SP202506240096,ยกเลิก,2025-06-24 09:31:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,3,3870.0,3483.0,193.5,116.1,77.4,45.0,0.0,Chiang Mai,50000,ShopeePay,-,10%,Shopee,Normal Day
+SP202503310097,การจัดส่ง,2025-03-31 15:50:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Payday
+SP202503030098,ยกเลิก,2025-03-03 21:23:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Songkhla,90000,Credit Card,-,10%,Shopee,Mega Day
+SP202505250099,สำเร็จ,2025-05-25 15:03:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,508.0,31.0,18.6,12.4,45.0,50.0,Nonthaburi,11000,Mobile Banking,-,10%,Shopee,Payday
+SP202505120100,สำเร็จ,2025-05-12 13:34:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,202.0,14.0,8.4,5.6,45.0,50.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202504250101,สำเร็จ,2025-04-25 22:37:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,3,840.0,706.0,42.0,25.2,16.8,45.0,50.0,Phuket,83000,Credit Card,-,10%,Shopee,Payday
+SP202501270102,สำเร็จ,2025-01-27 13:21:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Khon Kaen,40000,ShopeePay,-,10%,Shopee,Payday
+SP202501090103,สำเร็จ,2025-01-09 14:21:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Nonthaburi,11000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505290104,สำเร็จ,2025-05-29 11:28:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2403.0,133.5,80.1,53.4,45.0,0.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Payday
+SP202501200105,สำเร็จ,2025-01-20 12:41:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,405.0,22.5,13.5,9.0,45.0,0.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202505220106,ที่ต้องจัดส่ง,2025-05-22 17:14:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,2,1780.0,1502.0,89.0,53.4,35.6,45.0,100.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Normal Day
+SP202504040107,สำเร็จ,2025-04-04 13:18:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,3,840.0,656.0,42.0,25.2,16.8,45.0,100.0,Phuket,83000,ShopeePay,-,10%,Shopee,Mega Day
+SP202502010108,สำเร็จ,2025-02-01 17:07:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1215.0,67.5,40.5,27.0,45.0,0.0,Chiang Mai,50000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202502280109,การจัดส่ง,2025-02-28 13:08:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Nonthaburi,11000,Cash on Delivery,-,10%,Shopee,Payday
+SP202505120110,สำเร็จ,2025-05-12 19:53:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Phuket,83000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505180111,สำเร็จ,2025-05-18 12:02:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Chiang Mai,50000,Credit Card,-,10%,Shopee,Normal Day
+SP202504180112,สำเร็จ,2025-04-18 15:30:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Khon Kaen,40000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505270113,สำเร็จ,2025-05-27 12:41:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,405.0,22.5,13.5,9.0,45.0,0.0,Chiang Mai,50000,QR PromptPay,-,10%,Shopee,Payday
+SP202504180114,สำเร็จ,2025-04-18 20:39:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Phuket,83000,Credit Card,-,10%,Shopee,Normal Day
+SP202504200115,สำเร็จ,2025-04-20 20:13:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Phuket,83000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202505130116,ที่ต้องจัดส่ง,2025-05-13 08:29:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1165.0,67.5,40.5,27.0,45.0,50.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202503010117,สำเร็จ,2025-03-01 13:23:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,2,2580.0,2272.0,129.0,77.4,51.6,45.0,50.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Normal Day
+SP202506080118,สำเร็จ,2025-06-08 11:03:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,1,450.0,305.0,22.5,13.5,9.0,45.0,100.0,Chonburi,20000,ShopeePay,-,10%,Shopee,Normal Day
+SP202502220119,สำเร็จ,2025-02-22 15:37:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,3,1860.0,1624.0,93.0,55.8,37.2,45.0,50.0,Songkhla,90000,Credit Card,-,10%,Shopee,Normal Day
+SP202506160120,สำเร็จ,2025-06-16 11:28:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,2,1580.0,1322.0,79.0,47.4,31.6,45.0,100.0,Nakhon Ratchasima,30000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504220121,สำเร็จ,2025-04-22 20:29:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,2,900.0,760.0,45.0,27.0,18.0,45.0,50.0,Nakhon Ratchasima,30000,ShopeePay,-,10%,Shopee,Normal Day
+SP202505050122,สำเร็จ,2025-05-05 15:19:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,2,560.0,454.0,28.0,16.8,11.2,45.0,50.0,Nonthaburi,11000,QR PromptPay,-,10%,Shopee,Mega Day
+SP202503280123,สำเร็จ,2025-03-28 12:25:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,202.0,14.0,8.4,5.6,45.0,50.0,Khon Kaen,40000,QR PromptPay,-,10%,Shopee,Payday
+SP202502130124,สำเร็จ,2025-02-13 15:24:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,2,2580.0,2322.0,129.0,77.4,51.6,45.0,0.0,Chiang Mai,50000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504180125,ยกเลิก,2025-04-18 22:00:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Bangkok,10110,Credit Card,-,10%,Shopee,Normal Day
+SP202503090126,สำเร็จ,2025-03-09 12:09:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,152.0,14.0,8.4,5.6,45.0,100.0,Phuket,83000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202501200127,สำเร็จ,2025-01-20 16:47:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,3,2370.0,2133.0,118.5,71.1,47.4,45.0,0.0,Songkhla,90000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202502150128,สำเร็จ,2025-02-15 17:29:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Bangkok,10110,Credit Card,-,10%,Shopee,Mid-Month
+SP202505140129,ที่ต้องจัดส่ง,2025-05-14 13:51:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Normal Day
+SP202505260130,สำเร็จ,2025-05-26 15:38:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2303.0,133.5,80.1,53.4,45.0,100.0,Chiang Mai,50000,Mobile Banking,-,10%,Shopee,Payday
+SP202502030131,สำเร็จ,2025-02-03 12:36:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,3,3870.0,3383.0,193.5,116.1,77.4,45.0,100.0,Songkhla,90000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504290132,สำเร็จ,2025-04-29 13:05:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1215.0,67.5,40.5,27.0,45.0,0.0,Nakhon Ratchasima,30000,QR PromptPay,-,10%,Shopee,Payday
+SP202504070133,ที่ต้องจัดส่ง,2025-04-07 20:19:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,202.0,14.0,8.4,5.6,45.0,50.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202506060134,สำเร็จ,2025-06-06 15:20:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,661.0,39.5,23.7,15.8,45.0,50.0,Bangkok,10110,Credit Card,-,10%,Shopee,Mega Day
+SP202506200135,สำเร็จ,2025-06-20 08:18:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Songkhla,90000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504220136,ยกเลิก,2025-04-22 21:35:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,2,2580.0,2322.0,129.0,77.4,51.6,45.0,0.0,Songkhla,90000,ShopeePay,-,10%,Shopee,Normal Day
+SP202502220137,สำเร็จ,2025-02-22 09:21:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,1,620.0,558.0,31.0,18.6,12.4,45.0,0.0,Chonburi,20000,ShopeePay,-,10%,Shopee,Normal Day
+SP202501050138,สำเร็จ,2025-01-05 21:01:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1061.0,64.5,38.7,25.8,45.0,100.0,Khon Kaen,40000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202505260139,สำเร็จ,2025-05-26 12:39:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1161.0,64.5,38.7,25.8,45.0,0.0,Khon Kaen,40000,Credit Card,-,10%,Shopee,Payday
+SP202504120140,สำเร็จ,2025-04-12 15:24:00,SKU-PROD-006,Plant-Based BCAA Recovery,Watermelon,1,790.0,711.0,39.5,23.7,15.8,45.0,0.0,Songkhla,90000,QR PromptPay,-,10%,Shopee,Normal Day
+SP202506070141,สำเร็จ,2025-06-07 21:24:00,SKU-PROD-004,Probiotic Digestive Balance,30 Capsules,3,1860.0,1674.0,93.0,55.8,37.2,45.0,0.0,Chiang Mai,50000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504090142,สำเร็จ,2025-04-09 17:33:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,1,890.0,801.0,44.5,26.7,17.8,45.0,0.0,Chonburi,20000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202504220143,สำเร็จ,2025-04-22 19:22:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2303.0,133.5,80.1,53.4,45.0,100.0,Chiang Mai,50000,Mobile Banking,-,10%,Shopee,Normal Day
+SP202506130144,สำเร็จ,2025-06-13 19:52:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Vanilla,1,1290.0,1061.0,64.5,38.7,25.8,45.0,100.0,Nonthaburi,11000,ShopeePay,-,10%,Shopee,Normal Day
+SP202504060145,สำเร็จ,2025-04-06 09:06:00,SKU-PROD-003,Daily Vitamin C Complex 1000mg,60 Tablets,3,1350.0,1115.0,67.5,40.5,27.0,45.0,100.0,Chonburi,20000,Cash on Delivery,-,10%,Shopee,Normal Day
+SP202505230146,สำเร็จ,2025-05-23 18:48:00,SKU-PROD-002,Marine Collagen Tripeptide 500g,Unflavored,3,2670.0,2403.0,133.5,80.1,53.4,45.0,0.0,Bangkok,10110,QR PromptPay,-,10%,Shopee,Normal Day
+SP202506220147,สำเร็จ,2025-06-22 18:02:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,252.0,14.0,8.4,5.6,45.0,0.0,Chonburi,20000,Credit Card,-,10%,Shopee,Normal Day
+SP202503300148,สำเร็จ,2025-03-30 22:02:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,3,840.0,756.0,42.0,25.2,16.8,45.0,0.0,Songkhla,90000,Cash on Delivery,-,10%,Shopee,Payday
+SP202506180149,สำเร็จ,2025-06-18 20:18:00,SKU-PROD-001,Pure Whey Protein Isolate 1kg,Chocolate,1,1290.0,1111.0,64.5,38.7,25.8,45.0,50.0,Khon Kaen,40000,ShopeePay,-,10%,Shopee,Normal Day
+SP202505020150,การจัดส่ง,2025-05-02 15:44:00,SKU-PROD-005,Organic Chia Seeds Superfood 500g,Original,1,280.0,152.0,14.0,8.4,5.6,45.0,100.0,Nonthaburi,11000,Credit Card,-,10%,Shopee,Normal Day
